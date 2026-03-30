@@ -1,0 +1,9 @@
+complaint_type,total_complaints,avg_days_to_resolve,avg_satisfaction
+Wrong Charge,79,16.1,3.04
+Network Coverage,79,16.9,3.1
+Roaming Issue,79,13.8,3.27
+SIM Problem,78,15.7,3.04
+Billing Error,78,13.4,3.13
+Slow Data Speed,75,15.3,2.8
+Poor Call Quality,73,18.2,2.92
+Customer Service,59,14.1,3.05

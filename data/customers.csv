@@ -1,0 +1,501 @@
+customer_id,age,province,plan_name,tenure_months,join_date,monthly_fee,churned,contract_type
+CUS0001,22,Limpopo,Smart 199,10,2022-03-19,199,0,Prepaid
+CUS0002,31,Gauteng,Smart 199,38,2020-04-28,199,0,Prepaid
+CUS0003,53,Eastern Cape,Business Pro,27,2020-05-23,499,0,Prepaid
+CUS0004,55,Gauteng,Unlimited Premium,8,2021-04-02,799,0,24-Month Contract
+CUS0005,20,Limpopo,Unlimited Premium,26,2020-04-11,799,0,Prepaid
+CUS0006,54,KwaZulu-Natal,Smart 199,27,2020-10-22,199,0,24-Month Contract
+CUS0007,30,KwaZulu-Natal,Smart 50,7,2023-04-06,50,0,Prepaid
+CUS0008,57,Western Cape,Unlimited Premium,46,2020-05-08,799,0,Month-to-Month
+CUS0009,47,KwaZulu-Natal,Unlimited Premium,28,2021-10-05,799,0,Month-to-Month
+CUS0010,37,Limpopo,Smart 50,12,2021-05-14,50,1,Month-to-Month
+CUS0011,22,Gauteng,Smart 199,47,2022-07-08,199,0,24-Month Contract
+CUS0012,49,Eastern Cape,Business Pro,11,2021-12-01,499,0,Prepaid
+CUS0013,38,KwaZulu-Natal,Basic Prepaid,36,2023-03-19,0,0,24-Month Contract
+CUS0014,47,Gauteng,Smart 199,39,2022-10-14,199,0,Prepaid
+CUS0015,62,KwaZulu-Natal,Smart 199,31,2020-05-13,199,1,24-Month Contract
+CUS0016,42,Mpumalanga,Unlimited Premium,44,2022-07-01,799,0,Month-to-Month
+CUS0017,25,Eastern Cape,Basic Prepaid,30,2021-12-28,0,1,Prepaid
+CUS0018,43,Eastern Cape,Smart 50,19,2020-09-21,50,0,Month-to-Month
+CUS0019,35,Western Cape,Basic Prepaid,11,2022-07-08,0,0,Month-to-Month
+CUS0020,61,Eastern Cape,Unlimited Premium,18,2022-04-30,799,0,Prepaid
+CUS0021,60,Western Cape,Smart 50,6,2020-12-26,50,0,Prepaid
+CUS0022,18,Western Cape,Business Pro,38,2021-01-08,499,0,Month-to-Month
+CUS0023,26,Mpumalanga,Unlimited Premium,24,2023-03-05,799,0,24-Month Contract
+CUS0024,61,Limpopo,Unlimited Premium,42,2020-04-20,799,0,Month-to-Month
+CUS0025,58,Eastern Cape,Business Pro,26,2022-03-18,499,1,Prepaid
+CUS0026,25,KwaZulu-Natal,Smart 50,5,2021-03-03,50,0,24-Month Contract
+CUS0027,52,Gauteng,Basic Prepaid,7,2020-01-01,0,0,Month-to-Month
+CUS0028,57,Eastern Cape,Unlimited Premium,2,2020-05-24,799,0,Prepaid
+CUS0029,25,Eastern Cape,Smart 199,23,2022-01-15,199,0,Month-to-Month
+CUS0030,24,Mpumalanga,Business Pro,31,2021-09-30,499,1,Month-to-Month
+CUS0031,31,Limpopo,Smart 199,31,2020-11-26,199,0,Month-to-Month
+CUS0032,51,KwaZulu-Natal,Smart 50,45,2023-01-17,50,0,24-Month Contract
+CUS0033,28,KwaZulu-Natal,Basic Prepaid,45,2021-06-18,0,0,Prepaid
+CUS0034,32,Limpopo,Unlimited Premium,35,2022-10-26,799,0,Prepaid
+CUS0035,49,KwaZulu-Natal,Smart 50,26,2021-04-09,50,0,24-Month Contract
+CUS0036,30,Mpumalanga,Basic Prepaid,2,2021-07-26,0,0,24-Month Contract
+CUS0037,41,Gauteng,Smart 199,29,2021-12-16,199,0,Prepaid
+CUS0038,31,Eastern Cape,Basic Prepaid,15,2022-08-20,0,1,24-Month Contract
+CUS0039,40,Mpumalanga,Unlimited Premium,1,2022-09-08,799,0,Prepaid
+CUS0040,29,Eastern Cape,Basic Prepaid,25,2021-02-12,0,0,24-Month Contract
+CUS0041,65,Gauteng,Smart 199,6,2022-03-21,199,0,24-Month Contract
+CUS0042,55,Eastern Cape,Smart 50,11,2020-09-17,50,1,24-Month Contract
+CUS0043,40,Western Cape,Smart 50,40,2022-08-29,50,0,24-Month Contract
+CUS0044,64,Mpumalanga,Unlimited Premium,9,2020-02-13,799,1,Prepaid
+CUS0045,30,Western Cape,Unlimited Premium,48,2020-10-12,799,0,Prepaid
+CUS0046,55,KwaZulu-Natal,Smart 199,14,2021-08-22,199,0,Month-to-Month
+CUS0047,65,KwaZulu-Natal,Unlimited Premium,27,2020-09-25,799,1,Month-to-Month
+CUS0048,50,Western Cape,Unlimited Premium,34,2022-05-11,799,0,24-Month Contract
+CUS0049,46,Western Cape,Smart 50,34,2022-11-11,50,1,24-Month Contract
+CUS0050,57,Mpumalanga,Basic Prepaid,10,2020-12-18,0,1,Prepaid
+CUS0051,51,Limpopo,Unlimited Premium,4,2021-10-29,799,0,Month-to-Month
+CUS0052,35,Gauteng,Basic Prepaid,36,2020-04-26,0,1,Prepaid
+CUS0053,22,Eastern Cape,Unlimited Premium,29,2023-02-24,799,1,Month-to-Month
+CUS0054,35,Eastern Cape,Unlimited Premium,33,2022-11-14,799,0,24-Month Contract
+CUS0055,62,Limpopo,Unlimited Premium,31,2022-11-05,799,0,Month-to-Month
+CUS0056,25,Eastern Cape,Unlimited Premium,13,2022-07-05,799,1,Month-to-Month
+CUS0057,31,Mpumalanga,Smart 199,5,2021-05-07,199,0,Month-to-Month
+CUS0058,26,Eastern Cape,Basic Prepaid,10,2022-01-19,0,1,Prepaid
+CUS0059,60,Western Cape,Basic Prepaid,26,2022-09-24,0,1,Prepaid
+CUS0060,30,KwaZulu-Natal,Business Pro,33,2022-04-07,499,0,Month-to-Month
+CUS0061,53,Eastern Cape,Basic Prepaid,47,2022-01-19,0,1,Month-to-Month
+CUS0062,36,Limpopo,Basic Prepaid,25,2021-11-09,0,0,Prepaid
+CUS0063,35,Gauteng,Basic Prepaid,15,2020-08-02,0,1,Prepaid
+CUS0064,61,KwaZulu-Natal,Smart 199,9,2022-05-14,199,0,Month-to-Month
+CUS0065,62,KwaZulu-Natal,Smart 50,35,2022-11-20,50,0,Prepaid
+CUS0066,22,KwaZulu-Natal,Smart 199,4,2021-01-10,199,0,Prepaid
+CUS0067,32,Gauteng,Basic Prepaid,17,2020-06-20,0,0,Month-to-Month
+CUS0068,53,Eastern Cape,Basic Prepaid,30,2020-01-24,0,1,Month-to-Month
+CUS0069,33,Gauteng,Unlimited Premium,9,2020-03-29,799,0,Prepaid
+CUS0070,37,Mpumalanga,Smart 199,4,2021-01-05,199,0,Month-to-Month
+CUS0071,61,Western Cape,Unlimited Premium,14,2021-08-16,799,0,Month-to-Month
+CUS0072,19,Mpumalanga,Smart 199,2,2021-05-27,199,1,24-Month Contract
+CUS0073,46,Gauteng,Unlimited Premium,13,2022-11-19,799,0,24-Month Contract
+CUS0074,43,Limpopo,Business Pro,43,2022-10-10,499,0,Month-to-Month
+CUS0075,63,Mpumalanga,Smart 50,15,2021-12-02,50,0,24-Month Contract
+CUS0076,26,Gauteng,Smart 50,26,2021-12-12,50,0,Prepaid
+CUS0077,60,Eastern Cape,Smart 199,28,2020-11-30,199,1,24-Month Contract
+CUS0078,20,Eastern Cape,Smart 199,39,2021-05-11,199,0,Prepaid
+CUS0079,41,KwaZulu-Natal,Smart 50,18,2022-07-02,50,1,24-Month Contract
+CUS0080,37,Western Cape,Smart 199,16,2020-03-11,199,0,Month-to-Month
+CUS0081,48,KwaZulu-Natal,Smart 50,1,2021-11-17,50,0,24-Month Contract
+CUS0082,23,KwaZulu-Natal,Smart 50,16,2022-10-30,50,0,Prepaid
+CUS0083,37,KwaZulu-Natal,Smart 50,26,2020-03-26,50,0,24-Month Contract
+CUS0084,27,Mpumalanga,Smart 50,6,2023-04-14,50,0,24-Month Contract
+CUS0085,49,Western Cape,Unlimited Premium,25,2021-10-29,799,0,Month-to-Month
+CUS0086,63,Limpopo,Unlimited Premium,42,2020-10-23,799,1,24-Month Contract
+CUS0087,51,Limpopo,Business Pro,47,2022-11-01,499,1,24-Month Contract
+CUS0088,63,Mpumalanga,Basic Prepaid,44,2023-04-11,0,0,24-Month Contract
+CUS0089,58,KwaZulu-Natal,Smart 50,6,2020-03-04,50,1,Prepaid
+CUS0090,19,Mpumalanga,Business Pro,29,2023-02-17,499,1,24-Month Contract
+CUS0091,22,Mpumalanga,Smart 50,32,2021-06-24,50,1,24-Month Contract
+CUS0092,65,Eastern Cape,Unlimited Premium,6,2022-12-13,799,1,Month-to-Month
+CUS0093,31,Western Cape,Basic Prepaid,17,2021-04-25,0,0,24-Month Contract
+CUS0094,61,KwaZulu-Natal,Business Pro,32,2022-02-22,499,1,Prepaid
+CUS0095,27,KwaZulu-Natal,Unlimited Premium,41,2021-02-10,799,1,Month-to-Month
+CUS0096,48,Gauteng,Smart 199,40,2023-03-08,199,1,Month-to-Month
+CUS0097,61,Eastern Cape,Smart 199,44,2020-07-22,199,0,Month-to-Month
+CUS0098,25,Limpopo,Unlimited Premium,19,2022-08-09,799,0,Prepaid
+CUS0099,47,Gauteng,Smart 199,6,2022-08-26,199,1,24-Month Contract
+CUS0100,31,Gauteng,Business Pro,18,2022-03-03,499,0,24-Month Contract
+CUS0101,41,Western Cape,Basic Prepaid,10,2022-12-09,0,1,24-Month Contract
+CUS0102,32,Eastern Cape,Unlimited Premium,18,2020-08-18,799,0,Month-to-Month
+CUS0103,49,Mpumalanga,Business Pro,2,2020-11-21,499,1,Month-to-Month
+CUS0104,42,KwaZulu-Natal,Business Pro,20,2020-10-15,499,0,Prepaid
+CUS0105,43,Gauteng,Smart 199,1,2021-10-26,199,0,Prepaid
+CUS0106,22,Eastern Cape,Basic Prepaid,48,2021-08-16,0,1,Month-to-Month
+CUS0107,35,Gauteng,Unlimited Premium,5,2022-01-08,799,0,Month-to-Month
+CUS0108,27,Western Cape,Basic Prepaid,4,2021-08-07,0,0,Month-to-Month
+CUS0109,41,Eastern Cape,Business Pro,33,2021-10-08,499,0,Prepaid
+CUS0110,23,Gauteng,Business Pro,36,2023-01-29,499,0,24-Month Contract
+CUS0111,36,Eastern Cape,Business Pro,29,2020-10-10,499,0,Prepaid
+CUS0112,39,KwaZulu-Natal,Unlimited Premium,9,2020-12-15,799,0,Month-to-Month
+CUS0113,33,KwaZulu-Natal,Smart 199,48,2021-06-16,199,0,Month-to-Month
+CUS0114,59,Western Cape,Unlimited Premium,43,2022-03-18,799,1,Prepaid
+CUS0115,46,KwaZulu-Natal,Smart 50,33,2022-10-15,50,0,Month-to-Month
+CUS0116,23,Western Cape,Business Pro,9,2023-01-26,499,0,Month-to-Month
+CUS0117,34,Limpopo,Unlimited Premium,6,2021-10-15,799,0,Prepaid
+CUS0118,65,Limpopo,Basic Prepaid,48,2022-04-25,0,0,Prepaid
+CUS0119,49,KwaZulu-Natal,Business Pro,18,2021-11-23,499,0,24-Month Contract
+CUS0120,31,Gauteng,Smart 199,9,2022-10-27,199,0,Month-to-Month
+CUS0121,45,KwaZulu-Natal,Smart 50,25,2022-03-29,50,0,Prepaid
+CUS0122,48,Limpopo,Smart 50,3,2022-05-20,50,0,Month-to-Month
+CUS0123,51,Eastern Cape,Basic Prepaid,5,2022-03-12,0,0,Month-to-Month
+CUS0124,51,Mpumalanga,Smart 50,7,2021-04-03,50,0,Prepaid
+CUS0125,18,Western Cape,Business Pro,6,2023-02-03,499,0,Prepaid
+CUS0126,58,KwaZulu-Natal,Unlimited Premium,3,2021-09-14,799,0,24-Month Contract
+CUS0127,37,Limpopo,Business Pro,45,2020-08-17,499,1,24-Month Contract
+CUS0128,56,Gauteng,Smart 50,25,2021-06-18,50,0,Prepaid
+CUS0129,38,Mpumalanga,Unlimited Premium,20,2022-08-01,799,0,Prepaid
+CUS0130,19,Eastern Cape,Business Pro,34,2021-04-25,499,0,24-Month Contract
+CUS0131,61,Mpumalanga,Smart 199,4,2020-02-14,199,0,Month-to-Month
+CUS0132,41,Western Cape,Basic Prepaid,17,2021-04-11,0,0,Month-to-Month
+CUS0133,41,Mpumalanga,Basic Prepaid,45,2021-11-23,0,0,Month-to-Month
+CUS0134,50,Gauteng,Smart 50,1,2021-08-21,50,0,Prepaid
+CUS0135,30,Western Cape,Business Pro,13,2021-09-30,499,0,Month-to-Month
+CUS0136,57,Eastern Cape,Smart 50,17,2021-08-27,50,1,24-Month Contract
+CUS0137,60,Gauteng,Smart 50,15,2022-09-20,50,0,24-Month Contract
+CUS0138,56,Western Cape,Smart 50,26,2020-04-21,50,0,Month-to-Month
+CUS0139,46,Mpumalanga,Basic Prepaid,46,2020-05-03,0,1,Month-to-Month
+CUS0140,29,Mpumalanga,Basic Prepaid,6,2020-12-05,0,1,24-Month Contract
+CUS0141,42,KwaZulu-Natal,Business Pro,3,2021-09-30,499,0,Month-to-Month
+CUS0142,35,Gauteng,Business Pro,11,2020-08-11,499,1,Month-to-Month
+CUS0143,31,Eastern Cape,Business Pro,8,2023-02-23,499,0,Month-to-Month
+CUS0144,48,Western Cape,Smart 199,28,2020-06-28,199,1,Month-to-Month
+CUS0145,65,Eastern Cape,Unlimited Premium,29,2021-01-30,799,0,Prepaid
+CUS0146,20,Eastern Cape,Business Pro,16,2022-04-08,499,1,Prepaid
+CUS0147,56,KwaZulu-Natal,Basic Prepaid,17,2021-02-03,0,0,Month-to-Month
+CUS0148,63,Mpumalanga,Smart 199,22,2020-03-30,199,0,Month-to-Month
+CUS0149,56,Mpumalanga,Smart 199,20,2020-01-08,199,0,Prepaid
+CUS0150,47,Eastern Cape,Basic Prepaid,15,2020-08-07,0,0,Month-to-Month
+CUS0151,29,Gauteng,Business Pro,32,2020-09-28,499,0,24-Month Contract
+CUS0152,38,KwaZulu-Natal,Smart 199,45,2020-11-05,199,0,Month-to-Month
+CUS0153,43,Western Cape,Smart 199,39,2020-06-10,199,0,Prepaid
+CUS0154,52,KwaZulu-Natal,Business Pro,5,2020-03-10,499,0,Prepaid
+CUS0155,23,Western Cape,Business Pro,7,2020-05-27,499,0,Prepaid
+CUS0156,26,Eastern Cape,Business Pro,32,2022-07-04,499,0,Month-to-Month
+CUS0157,60,Gauteng,Unlimited Premium,44,2021-04-26,799,0,Month-to-Month
+CUS0158,34,Mpumalanga,Smart 199,18,2023-03-06,199,0,Month-to-Month
+CUS0159,33,Western Cape,Smart 50,29,2021-05-21,50,0,Month-to-Month
+CUS0160,34,Western Cape,Unlimited Premium,13,2021-10-30,799,1,24-Month Contract
+CUS0161,20,Gauteng,Unlimited Premium,15,2020-07-24,799,0,Prepaid
+CUS0162,20,KwaZulu-Natal,Business Pro,15,2022-07-07,499,0,Prepaid
+CUS0163,55,Western Cape,Basic Prepaid,4,2021-01-23,0,0,Prepaid
+CUS0164,34,Mpumalanga,Smart 199,33,2020-12-30,199,0,Prepaid
+CUS0165,41,KwaZulu-Natal,Basic Prepaid,41,2021-12-17,0,1,Prepaid
+CUS0166,64,Mpumalanga,Basic Prepaid,14,2021-06-06,0,1,Prepaid
+CUS0167,29,Limpopo,Basic Prepaid,21,2022-04-17,0,0,Month-to-Month
+CUS0168,53,Eastern Cape,Basic Prepaid,14,2020-03-05,0,0,Prepaid
+CUS0169,27,Mpumalanga,Business Pro,7,2022-03-20,499,0,24-Month Contract
+CUS0170,35,Eastern Cape,Basic Prepaid,42,2020-12-01,0,0,Month-to-Month
+CUS0171,54,KwaZulu-Natal,Smart 199,27,2020-04-15,199,0,Month-to-Month
+CUS0172,43,Mpumalanga,Business Pro,2,2022-01-15,499,0,Month-to-Month
+CUS0173,45,Gauteng,Smart 50,1,2022-06-08,50,0,Prepaid
+CUS0174,28,Western Cape,Business Pro,37,2022-01-16,499,0,Prepaid
+CUS0175,43,Gauteng,Basic Prepaid,36,2020-10-18,0,0,24-Month Contract
+CUS0176,40,KwaZulu-Natal,Unlimited Premium,24,2022-10-30,799,0,Prepaid
+CUS0177,49,Western Cape,Unlimited Premium,11,2020-05-17,799,1,Month-to-Month
+CUS0178,56,Mpumalanga,Smart 50,3,2022-09-15,50,0,Month-to-Month
+CUS0179,32,Limpopo,Basic Prepaid,46,2020-11-24,0,0,Month-to-Month
+CUS0180,31,Gauteng,Unlimited Premium,13,2022-08-26,799,0,Month-to-Month
+CUS0181,27,Western Cape,Unlimited Premium,11,2022-02-24,799,0,24-Month Contract
+CUS0182,61,Gauteng,Smart 50,3,2023-02-25,50,0,24-Month Contract
+CUS0183,53,Mpumalanga,Smart 199,8,2022-03-09,199,0,Month-to-Month
+CUS0184,42,Mpumalanga,Business Pro,20,2023-04-08,499,0,Month-to-Month
+CUS0185,18,Limpopo,Business Pro,33,2022-06-16,499,0,Month-to-Month
+CUS0186,47,Western Cape,Business Pro,16,2022-07-04,499,0,Month-to-Month
+CUS0187,45,KwaZulu-Natal,Business Pro,7,2020-05-17,499,1,Prepaid
+CUS0188,20,Mpumalanga,Business Pro,33,2022-11-10,499,0,Prepaid
+CUS0189,50,Gauteng,Basic Prepaid,47,2021-10-04,0,0,Prepaid
+CUS0190,22,Limpopo,Unlimited Premium,25,2020-10-05,799,1,24-Month Contract
+CUS0191,49,KwaZulu-Natal,Basic Prepaid,13,2020-09-26,0,0,Prepaid
+CUS0192,34,Western Cape,Smart 50,5,2021-12-19,50,0,Month-to-Month
+CUS0193,50,Eastern Cape,Unlimited Premium,18,2022-07-23,799,1,Prepaid
+CUS0194,41,Gauteng,Unlimited Premium,17,2022-11-02,799,0,Prepaid
+CUS0195,35,Mpumalanga,Smart 50,26,2020-11-26,50,0,Month-to-Month
+CUS0196,51,Gauteng,Business Pro,11,2021-06-25,499,1,24-Month Contract
+CUS0197,62,Gauteng,Smart 199,29,2023-02-11,199,0,Month-to-Month
+CUS0198,41,KwaZulu-Natal,Unlimited Premium,41,2022-03-18,799,0,Month-to-Month
+CUS0199,23,Eastern Cape,Smart 199,37,2020-10-26,199,0,Prepaid
+CUS0200,51,KwaZulu-Natal,Smart 50,40,2020-04-08,50,0,Month-to-Month
+CUS0201,65,Gauteng,Unlimited Premium,43,2021-10-02,799,0,Prepaid
+CUS0202,41,Gauteng,Smart 50,19,2022-06-04,50,0,Prepaid
+CUS0203,18,Limpopo,Business Pro,15,2020-04-03,499,1,Month-to-Month
+CUS0204,32,Eastern Cape,Smart 199,7,2022-12-07,199,0,24-Month Contract
+CUS0205,57,Eastern Cape,Smart 199,38,2020-09-30,199,0,Prepaid
+CUS0206,46,Gauteng,Smart 50,1,2021-05-13,50,0,Prepaid
+CUS0207,34,Gauteng,Smart 50,43,2021-07-06,50,0,Prepaid
+CUS0208,51,Mpumalanga,Unlimited Premium,23,2023-03-30,799,0,Month-to-Month
+CUS0209,52,Gauteng,Smart 50,11,2020-01-01,50,1,Month-to-Month
+CUS0210,24,Gauteng,Smart 50,16,2020-11-22,50,1,24-Month Contract
+CUS0211,30,Limpopo,Unlimited Premium,43,2021-02-07,799,1,24-Month Contract
+CUS0212,29,Limpopo,Unlimited Premium,42,2022-04-30,799,0,Month-to-Month
+CUS0213,64,Eastern Cape,Basic Prepaid,20,2020-04-09,0,0,24-Month Contract
+CUS0214,65,Eastern Cape,Unlimited Premium,1,2022-02-07,799,0,Prepaid
+CUS0215,34,Western Cape,Business Pro,12,2021-04-07,499,0,24-Month Contract
+CUS0216,62,KwaZulu-Natal,Basic Prepaid,8,2021-11-18,0,0,24-Month Contract
+CUS0217,61,Limpopo,Basic Prepaid,18,2023-02-08,0,0,Month-to-Month
+CUS0218,50,Gauteng,Smart 199,42,2021-03-20,199,1,Prepaid
+CUS0219,65,KwaZulu-Natal,Smart 199,16,2021-02-19,199,0,Prepaid
+CUS0220,58,Mpumalanga,Business Pro,22,2021-05-04,499,0,24-Month Contract
+CUS0221,62,Gauteng,Unlimited Premium,31,2022-08-24,799,0,Prepaid
+CUS0222,37,Western Cape,Business Pro,47,2021-04-23,499,0,Month-to-Month
+CUS0223,28,Western Cape,Unlimited Premium,38,2020-06-08,799,0,Prepaid
+CUS0224,28,KwaZulu-Natal,Basic Prepaid,8,2020-08-06,0,0,Prepaid
+CUS0225,59,Mpumalanga,Basic Prepaid,2,2020-03-26,0,1,Prepaid
+CUS0226,55,KwaZulu-Natal,Basic Prepaid,48,2020-04-05,0,1,Prepaid
+CUS0227,63,Eastern Cape,Unlimited Premium,43,2020-05-15,799,0,Prepaid
+CUS0228,20,Mpumalanga,Smart 50,14,2021-02-20,50,1,Prepaid
+CUS0229,59,Western Cape,Smart 199,31,2020-07-23,199,1,Month-to-Month
+CUS0230,40,KwaZulu-Natal,Smart 199,22,2022-05-17,199,0,Month-to-Month
+CUS0231,56,Limpopo,Basic Prepaid,46,2022-01-23,0,0,Month-to-Month
+CUS0232,19,Eastern Cape,Smart 199,40,2020-03-04,199,0,24-Month Contract
+CUS0233,52,Limpopo,Basic Prepaid,23,2022-08-18,0,0,Prepaid
+CUS0234,18,Limpopo,Basic Prepaid,37,2021-08-11,0,1,Prepaid
+CUS0235,24,Eastern Cape,Smart 199,4,2020-01-09,199,0,24-Month Contract
+CUS0236,50,KwaZulu-Natal,Smart 50,32,2021-12-12,50,0,24-Month Contract
+CUS0237,32,Eastern Cape,Smart 50,19,2021-03-15,50,0,Prepaid
+CUS0238,62,Limpopo,Basic Prepaid,41,2020-06-14,0,0,Prepaid
+CUS0239,43,Mpumalanga,Smart 199,23,2020-07-13,199,0,Prepaid
+CUS0240,37,KwaZulu-Natal,Business Pro,42,2020-02-21,499,0,Month-to-Month
+CUS0241,58,Western Cape,Unlimited Premium,33,2020-12-16,799,0,Month-to-Month
+CUS0242,38,Limpopo,Smart 50,35,2020-03-10,50,0,Prepaid
+CUS0243,28,Eastern Cape,Business Pro,43,2023-02-08,499,0,Month-to-Month
+CUS0244,47,Mpumalanga,Smart 199,38,2021-04-18,199,1,24-Month Contract
+CUS0245,63,Limpopo,Smart 50,33,2021-01-27,50,0,Prepaid
+CUS0246,40,Western Cape,Smart 50,16,2021-10-30,50,0,Prepaid
+CUS0247,64,Gauteng,Smart 199,13,2021-06-13,199,0,Prepaid
+CUS0248,27,KwaZulu-Natal,Basic Prepaid,13,2022-02-25,0,1,24-Month Contract
+CUS0249,58,Gauteng,Smart 199,28,2021-07-14,199,0,Month-to-Month
+CUS0250,43,Eastern Cape,Smart 50,25,2022-08-08,50,1,24-Month Contract
+CUS0251,27,KwaZulu-Natal,Smart 50,33,2021-08-29,50,0,24-Month Contract
+CUS0252,45,Mpumalanga,Business Pro,1,2021-05-11,499,0,24-Month Contract
+CUS0253,60,Mpumalanga,Unlimited Premium,48,2022-05-12,799,0,24-Month Contract
+CUS0254,47,Eastern Cape,Unlimited Premium,15,2021-01-06,799,0,Month-to-Month
+CUS0255,33,Eastern Cape,Smart 199,41,2020-07-19,199,0,24-Month Contract
+CUS0256,19,Limpopo,Smart 50,17,2022-05-17,50,0,Month-to-Month
+CUS0257,38,Gauteng,Unlimited Premium,44,2021-01-09,799,0,Month-to-Month
+CUS0258,31,Western Cape,Business Pro,7,2020-03-19,499,0,24-Month Contract
+CUS0259,54,Eastern Cape,Smart 50,34,2021-12-14,50,1,24-Month Contract
+CUS0260,58,KwaZulu-Natal,Smart 50,46,2022-09-01,50,0,24-Month Contract
+CUS0261,61,Western Cape,Smart 199,27,2022-07-24,199,0,Month-to-Month
+CUS0262,34,KwaZulu-Natal,Unlimited Premium,8,2021-12-29,799,0,Month-to-Month
+CUS0263,44,Mpumalanga,Business Pro,4,2020-01-28,499,1,24-Month Contract
+CUS0264,37,Mpumalanga,Smart 199,38,2021-06-27,199,1,Month-to-Month
+CUS0265,28,Western Cape,Unlimited Premium,15,2022-03-13,799,0,Prepaid
+CUS0266,27,KwaZulu-Natal,Smart 50,31,2023-02-25,50,0,24-Month Contract
+CUS0267,59,Western Cape,Business Pro,30,2021-08-25,499,0,Month-to-Month
+CUS0268,61,KwaZulu-Natal,Smart 199,15,2021-07-01,199,0,Month-to-Month
+CUS0269,35,KwaZulu-Natal,Smart 50,31,2020-01-06,50,0,Prepaid
+CUS0270,57,Mpumalanga,Smart 199,21,2022-09-09,199,0,Prepaid
+CUS0271,21,Gauteng,Smart 199,10,2021-09-12,199,0,24-Month Contract
+CUS0272,58,Limpopo,Smart 199,9,2022-12-22,199,0,Prepaid
+CUS0273,34,Limpopo,Basic Prepaid,14,2020-05-27,0,0,Prepaid
+CUS0274,46,KwaZulu-Natal,Unlimited Premium,10,2021-04-23,799,0,Prepaid
+CUS0275,62,Limpopo,Smart 50,26,2022-12-30,50,0,Prepaid
+CUS0276,62,Western Cape,Unlimited Premium,41,2021-08-31,799,0,24-Month Contract
+CUS0277,25,Limpopo,Basic Prepaid,48,2022-06-17,0,0,Prepaid
+CUS0278,48,Eastern Cape,Smart 199,27,2021-04-24,199,0,24-Month Contract
+CUS0279,62,Eastern Cape,Basic Prepaid,31,2022-08-14,0,0,Prepaid
+CUS0280,65,Gauteng,Business Pro,11,2023-01-09,499,0,Prepaid
+CUS0281,36,Eastern Cape,Smart 199,30,2023-02-26,199,0,Month-to-Month
+CUS0282,41,Mpumalanga,Business Pro,27,2020-06-03,499,0,24-Month Contract
+CUS0283,39,Gauteng,Basic Prepaid,2,2020-04-03,0,0,24-Month Contract
+CUS0284,63,Eastern Cape,Business Pro,32,2020-10-22,499,1,24-Month Contract
+CUS0285,41,KwaZulu-Natal,Smart 50,22,2020-07-12,50,0,Month-to-Month
+CUS0286,39,Eastern Cape,Unlimited Premium,36,2021-03-07,799,0,Month-to-Month
+CUS0287,49,Eastern Cape,Unlimited Premium,4,2021-08-15,799,0,Month-to-Month
+CUS0288,31,Mpumalanga,Unlimited Premium,18,2022-11-03,799,0,Month-to-Month
+CUS0289,37,Western Cape,Basic Prepaid,22,2021-01-28,0,1,24-Month Contract
+CUS0290,43,Limpopo,Basic Prepaid,3,2022-03-27,0,0,24-Month Contract
+CUS0291,20,Western Cape,Basic Prepaid,26,2021-09-07,0,1,Month-to-Month
+CUS0292,52,Limpopo,Unlimited Premium,43,2020-05-03,799,0,Month-to-Month
+CUS0293,60,Mpumalanga,Unlimited Premium,10,2020-06-18,799,0,Month-to-Month
+CUS0294,44,Gauteng,Smart 50,7,2021-01-06,50,0,24-Month Contract
+CUS0295,53,Mpumalanga,Basic Prepaid,24,2020-10-11,0,0,Month-to-Month
+CUS0296,19,Eastern Cape,Smart 199,12,2022-05-13,199,1,24-Month Contract
+CUS0297,20,Gauteng,Unlimited Premium,4,2022-10-16,799,0,Month-to-Month
+CUS0298,18,Mpumalanga,Unlimited Premium,45,2022-04-08,799,0,Month-to-Month
+CUS0299,44,Limpopo,Unlimited Premium,38,2020-11-14,799,0,Prepaid
+CUS0300,27,Mpumalanga,Basic Prepaid,42,2022-08-25,0,1,Prepaid
+CUS0301,25,Gauteng,Business Pro,1,2020-01-20,499,0,Prepaid
+CUS0302,64,Limpopo,Basic Prepaid,9,2022-08-25,0,1,Prepaid
+CUS0303,41,Mpumalanga,Business Pro,47,2021-01-18,499,0,24-Month Contract
+CUS0304,53,Mpumalanga,Smart 50,47,2020-06-21,50,0,Month-to-Month
+CUS0305,21,Mpumalanga,Business Pro,43,2021-06-04,499,0,Prepaid
+CUS0306,61,Limpopo,Basic Prepaid,4,2020-01-31,0,0,Prepaid
+CUS0307,28,Eastern Cape,Business Pro,20,2021-10-01,499,0,24-Month Contract
+CUS0308,64,Eastern Cape,Basic Prepaid,21,2022-01-22,0,0,Month-to-Month
+CUS0309,59,Western Cape,Smart 50,10,2020-08-27,50,0,24-Month Contract
+CUS0310,46,KwaZulu-Natal,Business Pro,31,2022-02-28,499,0,24-Month Contract
+CUS0311,59,Mpumalanga,Smart 199,19,2021-07-27,199,1,24-Month Contract
+CUS0312,56,KwaZulu-Natal,Smart 199,39,2020-02-01,199,0,24-Month Contract
+CUS0313,42,Limpopo,Business Pro,16,2022-02-10,499,0,Prepaid
+CUS0314,35,Eastern Cape,Business Pro,19,2020-01-04,499,0,Prepaid
+CUS0315,54,Western Cape,Unlimited Premium,3,2021-08-13,799,0,Month-to-Month
+CUS0316,23,Limpopo,Unlimited Premium,44,2022-10-20,799,0,24-Month Contract
+CUS0317,64,Western Cape,Business Pro,25,2021-02-14,499,0,Month-to-Month
+CUS0318,31,KwaZulu-Natal,Unlimited Premium,4,2022-03-20,799,0,24-Month Contract
+CUS0319,52,KwaZulu-Natal,Basic Prepaid,25,2022-07-30,0,0,Prepaid
+CUS0320,34,Limpopo,Smart 50,26,2023-04-02,50,0,Month-to-Month
+CUS0321,30,Gauteng,Business Pro,33,2021-02-17,499,0,Prepaid
+CUS0322,43,Limpopo,Smart 199,24,2023-03-29,199,0,Prepaid
+CUS0323,24,KwaZulu-Natal,Smart 50,3,2022-10-07,50,0,24-Month Contract
+CUS0324,19,KwaZulu-Natal,Business Pro,6,2020-11-15,499,0,Month-to-Month
+CUS0325,31,Limpopo,Unlimited Premium,39,2020-02-12,799,1,Month-to-Month
+CUS0326,35,Eastern Cape,Unlimited Premium,37,2021-03-13,799,0,Prepaid
+CUS0327,20,KwaZulu-Natal,Business Pro,38,2020-09-25,499,0,Prepaid
+CUS0328,20,Limpopo,Smart 50,25,2020-06-20,50,1,Month-to-Month
+CUS0329,58,Eastern Cape,Business Pro,32,2020-05-11,499,0,Prepaid
+CUS0330,59,Gauteng,Basic Prepaid,17,2021-10-14,0,0,24-Month Contract
+CUS0331,28,KwaZulu-Natal,Unlimited Premium,26,2021-01-09,799,0,Prepaid
+CUS0332,40,Gauteng,Smart 50,12,2020-03-20,50,0,24-Month Contract
+CUS0333,63,Mpumalanga,Basic Prepaid,4,2021-06-12,0,0,24-Month Contract
+CUS0334,18,Western Cape,Business Pro,4,2020-07-25,499,1,24-Month Contract
+CUS0335,24,Eastern Cape,Smart 199,38,2022-06-22,199,0,Month-to-Month
+CUS0336,48,Eastern Cape,Smart 199,17,2022-03-09,199,1,Prepaid
+CUS0337,18,Eastern Cape,Business Pro,16,2020-10-20,499,0,24-Month Contract
+CUS0338,32,Gauteng,Smart 50,3,2020-11-17,50,0,24-Month Contract
+CUS0339,24,Eastern Cape,Smart 199,48,2020-10-13,199,0,Prepaid
+CUS0340,32,Eastern Cape,Basic Prepaid,29,2021-11-26,0,1,Prepaid
+CUS0341,21,Western Cape,Smart 199,10,2021-11-10,199,0,24-Month Contract
+CUS0342,27,KwaZulu-Natal,Business Pro,36,2020-10-23,499,0,Month-to-Month
+CUS0343,54,KwaZulu-Natal,Business Pro,16,2020-11-14,499,1,Month-to-Month
+CUS0344,47,Eastern Cape,Smart 50,17,2022-10-02,50,1,Prepaid
+CUS0345,60,Western Cape,Smart 50,33,2020-04-26,50,0,24-Month Contract
+CUS0346,30,KwaZulu-Natal,Business Pro,19,2020-09-01,499,0,Month-to-Month
+CUS0347,36,Eastern Cape,Smart 199,16,2021-05-02,199,1,Prepaid
+CUS0348,58,Gauteng,Basic Prepaid,47,2021-08-24,0,1,Month-to-Month
+CUS0349,18,Limpopo,Unlimited Premium,22,2022-11-12,799,1,Month-to-Month
+CUS0350,44,Western Cape,Smart 50,24,2022-06-10,50,1,Month-to-Month
+CUS0351,51,Western Cape,Unlimited Premium,12,2020-10-09,799,0,24-Month Contract
+CUS0352,56,Mpumalanga,Smart 50,13,2020-06-11,50,0,Month-to-Month
+CUS0353,60,Mpumalanga,Smart 199,12,2021-02-25,199,1,24-Month Contract
+CUS0354,22,Mpumalanga,Smart 50,38,2021-09-22,50,0,24-Month Contract
+CUS0355,40,KwaZulu-Natal,Unlimited Premium,27,2020-04-23,799,0,Month-to-Month
+CUS0356,48,Western Cape,Business Pro,6,2020-02-01,499,0,24-Month Contract
+CUS0357,41,Gauteng,Smart 199,16,2021-01-16,199,0,Prepaid
+CUS0358,46,Limpopo,Smart 199,37,2020-01-10,199,0,Prepaid
+CUS0359,38,Mpumalanga,Basic Prepaid,23,2021-05-16,0,0,Month-to-Month
+CUS0360,64,Eastern Cape,Unlimited Premium,4,2021-08-20,799,0,Month-to-Month
+CUS0361,26,Gauteng,Unlimited Premium,2,2022-12-22,799,0,Prepaid
+CUS0362,37,KwaZulu-Natal,Basic Prepaid,15,2021-01-08,0,1,24-Month Contract
+CUS0363,65,Western Cape,Basic Prepaid,2,2020-07-16,0,0,Month-to-Month
+CUS0364,33,Mpumalanga,Basic Prepaid,39,2023-03-26,0,0,Month-to-Month
+CUS0365,20,KwaZulu-Natal,Basic Prepaid,23,2020-07-11,0,0,Prepaid
+CUS0366,35,Gauteng,Business Pro,32,2023-04-14,499,0,Prepaid
+CUS0367,32,Western Cape,Basic Prepaid,26,2020-10-07,0,0,Prepaid
+CUS0368,19,Mpumalanga,Unlimited Premium,30,2022-03-23,799,0,Month-to-Month
+CUS0369,21,KwaZulu-Natal,Business Pro,39,2022-12-12,499,1,Month-to-Month
+CUS0370,54,KwaZulu-Natal,Business Pro,16,2021-11-17,499,0,Month-to-Month
+CUS0371,61,KwaZulu-Natal,Unlimited Premium,4,2021-10-27,799,0,Prepaid
+CUS0372,51,Western Cape,Business Pro,43,2020-01-24,499,0,Prepaid
+CUS0373,19,Western Cape,Smart 199,28,2021-02-15,199,0,Prepaid
+CUS0374,20,Gauteng,Business Pro,26,2022-07-18,499,0,24-Month Contract
+CUS0375,20,Limpopo,Unlimited Premium,18,2021-07-13,799,0,Prepaid
+CUS0376,33,Gauteng,Smart 199,8,2022-12-01,199,1,Month-to-Month
+CUS0377,25,Gauteng,Basic Prepaid,20,2021-12-12,0,0,24-Month Contract
+CUS0378,52,Western Cape,Unlimited Premium,18,2020-06-22,799,0,Month-to-Month
+CUS0379,44,Limpopo,Basic Prepaid,33,2020-09-26,0,0,Month-to-Month
+CUS0380,36,Eastern Cape,Smart 199,16,2020-06-28,199,0,24-Month Contract
+CUS0381,63,KwaZulu-Natal,Unlimited Premium,15,2022-03-02,799,0,Month-to-Month
+CUS0382,37,Gauteng,Unlimited Premium,20,2022-09-05,799,0,Prepaid
+CUS0383,42,Limpopo,Smart 199,15,2021-01-21,199,0,Month-to-Month
+CUS0384,33,KwaZulu-Natal,Basic Prepaid,23,2020-11-28,0,0,24-Month Contract
+CUS0385,31,KwaZulu-Natal,Smart 199,32,2021-07-06,199,0,Prepaid
+CUS0386,40,Eastern Cape,Basic Prepaid,11,2023-02-02,0,1,24-Month Contract
+CUS0387,40,Mpumalanga,Basic Prepaid,34,2022-03-05,0,0,Prepaid
+CUS0388,60,KwaZulu-Natal,Unlimited Premium,15,2020-11-12,799,0,Prepaid
+CUS0389,51,Gauteng,Smart 50,40,2021-07-20,50,0,24-Month Contract
+CUS0390,24,Gauteng,Business Pro,18,2020-09-17,499,0,Month-to-Month
+CUS0391,54,Western Cape,Unlimited Premium,38,2020-08-28,799,0,Month-to-Month
+CUS0392,46,Mpumalanga,Smart 199,40,2020-08-15,199,0,Month-to-Month
+CUS0393,43,Limpopo,Smart 199,47,2021-12-23,199,0,24-Month Contract
+CUS0394,65,Eastern Cape,Unlimited Premium,25,2021-10-21,799,1,Month-to-Month
+CUS0395,27,Eastern Cape,Business Pro,20,2021-01-12,499,0,24-Month Contract
+CUS0396,39,KwaZulu-Natal,Business Pro,38,2021-04-20,499,1,24-Month Contract
+CUS0397,18,Gauteng,Smart 50,21,2021-02-22,50,0,Prepaid
+CUS0398,52,KwaZulu-Natal,Smart 199,37,2022-10-15,199,0,24-Month Contract
+CUS0399,64,Mpumalanga,Unlimited Premium,28,2022-11-25,799,0,Month-to-Month
+CUS0400,61,KwaZulu-Natal,Business Pro,30,2022-01-02,499,1,Month-to-Month
+CUS0401,24,Eastern Cape,Basic Prepaid,44,2020-05-19,0,0,Month-to-Month
+CUS0402,27,Western Cape,Unlimited Premium,26,2023-02-23,799,0,Month-to-Month
+CUS0403,55,KwaZulu-Natal,Business Pro,26,2022-06-20,499,0,24-Month Contract
+CUS0404,38,KwaZulu-Natal,Unlimited Premium,48,2020-07-07,799,0,Prepaid
+CUS0405,36,Mpumalanga,Smart 199,33,2020-12-25,199,1,Month-to-Month
+CUS0406,50,Western Cape,Unlimited Premium,27,2020-11-16,799,0,24-Month Contract
+CUS0407,54,Limpopo,Smart 50,27,2021-01-08,50,1,Prepaid
+CUS0408,18,Gauteng,Smart 199,37,2020-03-27,199,0,Month-to-Month
+CUS0409,24,Limpopo,Unlimited Premium,1,2021-09-15,799,0,Prepaid
+CUS0410,53,Limpopo,Basic Prepaid,13,2020-12-24,0,0,Month-to-Month
+CUS0411,44,Limpopo,Unlimited Premium,33,2020-10-21,799,0,Prepaid
+CUS0412,24,Gauteng,Smart 50,11,2022-11-27,50,0,Prepaid
+CUS0413,47,Limpopo,Basic Prepaid,11,2022-12-06,0,0,Month-to-Month
+CUS0414,55,KwaZulu-Natal,Basic Prepaid,42,2020-01-26,0,0,Prepaid
+CUS0415,35,Mpumalanga,Smart 50,23,2021-07-18,50,0,Prepaid
+CUS0416,57,Eastern Cape,Unlimited Premium,5,2021-12-15,799,0,Prepaid
+CUS0417,20,Eastern Cape,Basic Prepaid,15,2022-03-21,0,0,Prepaid
+CUS0418,28,Limpopo,Unlimited Premium,16,2021-05-25,799,0,Prepaid
+CUS0419,56,KwaZulu-Natal,Smart 199,1,2022-07-21,199,0,Month-to-Month
+CUS0420,55,Western Cape,Basic Prepaid,16,2022-03-09,0,0,Month-to-Month
+CUS0421,33,Gauteng,Smart 199,26,2022-09-19,199,1,Prepaid
+CUS0422,36,Eastern Cape,Smart 50,23,2022-02-15,50,0,24-Month Contract
+CUS0423,42,KwaZulu-Natal,Smart 199,8,2021-11-17,199,0,Month-to-Month
+CUS0424,40,Limpopo,Basic Prepaid,8,2022-05-14,0,0,Prepaid
+CUS0425,33,Eastern Cape,Business Pro,13,2022-08-14,499,0,Prepaid
+CUS0426,27,Western Cape,Smart 199,43,2020-02-21,199,0,24-Month Contract
+CUS0427,26,Limpopo,Smart 50,6,2021-02-06,50,0,Month-to-Month
+CUS0428,31,Mpumalanga,Business Pro,16,2020-11-22,499,0,Month-to-Month
+CUS0429,48,Limpopo,Business Pro,41,2023-04-04,499,0,Prepaid
+CUS0430,34,Limpopo,Smart 50,29,2020-09-25,50,0,Month-to-Month
+CUS0431,56,Limpopo,Unlimited Premium,24,2022-12-30,799,0,Prepaid
+CUS0432,35,Mpumalanga,Smart 50,8,2022-11-16,50,1,Month-to-Month
+CUS0433,18,Eastern Cape,Basic Prepaid,43,2023-03-08,0,1,24-Month Contract
+CUS0434,32,KwaZulu-Natal,Basic Prepaid,45,2020-12-28,0,0,Prepaid
+CUS0435,50,KwaZulu-Natal,Basic Prepaid,5,2023-02-24,0,0,Prepaid
+CUS0436,36,Western Cape,Basic Prepaid,46,2021-09-29,0,1,24-Month Contract
+CUS0437,47,Mpumalanga,Business Pro,19,2021-12-29,499,0,24-Month Contract
+CUS0438,61,Mpumalanga,Smart 50,18,2020-12-27,50,1,24-Month Contract
+CUS0439,62,Eastern Cape,Smart 199,27,2020-02-21,199,0,Prepaid
+CUS0440,25,KwaZulu-Natal,Business Pro,23,2020-07-19,499,0,24-Month Contract
+CUS0441,56,Western Cape,Smart 50,46,2020-03-23,50,0,Month-to-Month
+CUS0442,20,Limpopo,Smart 50,20,2020-11-15,50,0,Month-to-Month
+CUS0443,63,Limpopo,Smart 50,37,2021-04-11,50,0,Month-to-Month
+CUS0444,18,Gauteng,Business Pro,43,2023-03-24,499,0,24-Month Contract
+CUS0445,21,Western Cape,Smart 199,3,2023-04-13,199,0,24-Month Contract
+CUS0446,40,Mpumalanga,Basic Prepaid,3,2021-10-14,0,1,Prepaid
+CUS0447,57,Western Cape,Business Pro,45,2022-03-17,499,0,Month-to-Month
+CUS0448,45,Eastern Cape,Unlimited Premium,6,2021-12-15,799,0,Month-to-Month
+CUS0449,61,Mpumalanga,Unlimited Premium,48,2022-07-16,799,0,Prepaid
+CUS0450,26,Eastern Cape,Business Pro,44,2022-11-14,499,0,Prepaid
+CUS0451,52,Western Cape,Basic Prepaid,45,2023-02-19,0,1,24-Month Contract
+CUS0452,21,Western Cape,Smart 50,35,2021-06-17,50,0,Month-to-Month
+CUS0453,37,Western Cape,Smart 199,27,2020-07-08,199,0,Prepaid
+CUS0454,33,Gauteng,Business Pro,43,2022-09-15,499,0,24-Month Contract
+CUS0455,26,Mpumalanga,Business Pro,9,2021-12-20,499,0,Prepaid
+CUS0456,25,Limpopo,Unlimited Premium,37,2021-05-08,799,0,Month-to-Month
+CUS0457,47,Eastern Cape,Smart 50,44,2020-11-13,50,0,Prepaid
+CUS0458,49,Western Cape,Basic Prepaid,45,2021-08-15,0,1,Prepaid
+CUS0459,62,KwaZulu-Natal,Basic Prepaid,18,2021-09-14,0,1,Month-to-Month
+CUS0460,54,KwaZulu-Natal,Basic Prepaid,11,2021-10-26,0,0,Month-to-Month
+CUS0461,47,Eastern Cape,Smart 50,36,2020-05-27,50,1,Prepaid
+CUS0462,59,Eastern Cape,Smart 199,48,2023-02-28,199,0,Month-to-Month
+CUS0463,40,Gauteng,Business Pro,13,2023-01-17,499,0,24-Month Contract
+CUS0464,23,Western Cape,Smart 199,41,2021-05-29,199,0,24-Month Contract
+CUS0465,36,KwaZulu-Natal,Basic Prepaid,2,2022-03-20,0,0,Prepaid
+CUS0466,64,KwaZulu-Natal,Unlimited Premium,44,2020-12-11,799,1,24-Month Contract
+CUS0467,40,KwaZulu-Natal,Unlimited Premium,21,2022-02-15,799,0,Prepaid
+CUS0468,34,Western Cape,Smart 199,9,2023-02-02,199,0,Prepaid
+CUS0469,63,Eastern Cape,Basic Prepaid,7,2023-03-06,0,0,Prepaid
+CUS0470,28,KwaZulu-Natal,Smart 50,32,2022-05-16,50,0,24-Month Contract
+CUS0471,32,Western Cape,Unlimited Premium,41,2020-06-13,799,1,Prepaid
+CUS0472,20,Eastern Cape,Business Pro,41,2022-04-02,499,1,Month-to-Month
+CUS0473,57,Limpopo,Smart 50,14,2022-02-01,50,1,Month-to-Month
+CUS0474,50,Mpumalanga,Smart 50,19,2020-05-27,50,0,Month-to-Month
+CUS0475,29,Mpumalanga,Smart 199,5,2022-06-17,199,1,Prepaid
+CUS0476,54,Mpumalanga,Business Pro,19,2020-01-09,499,0,Month-to-Month
+CUS0477,38,Limpopo,Unlimited Premium,13,2022-08-18,799,1,Month-to-Month
+CUS0478,56,Limpopo,Business Pro,35,2020-11-12,499,0,Prepaid
+CUS0479,37,Limpopo,Basic Prepaid,47,2021-11-09,0,0,24-Month Contract
+CUS0480,26,KwaZulu-Natal,Business Pro,24,2022-09-11,499,0,Month-to-Month
+CUS0481,32,Mpumalanga,Unlimited Premium,41,2020-02-27,799,0,24-Month Contract
+CUS0482,55,KwaZulu-Natal,Business Pro,45,2020-06-23,499,1,24-Month Contract
+CUS0483,54,Eastern Cape,Unlimited Premium,27,2022-01-07,799,0,Month-to-Month
+CUS0484,30,Limpopo,Smart 199,8,2021-04-10,199,0,24-Month Contract
+CUS0485,30,Limpopo,Basic Prepaid,15,2021-06-03,0,0,24-Month Contract
+CUS0486,47,Western Cape,Smart 199,46,2022-09-29,199,0,24-Month Contract
+CUS0487,55,Limpopo,Unlimited Premium,45,2020-08-19,799,0,Prepaid
+CUS0488,26,Limpopo,Business Pro,44,2020-05-30,499,0,24-Month Contract
+CUS0489,64,Limpopo,Unlimited Premium,46,2020-08-22,799,0,Prepaid
+CUS0490,30,Limpopo,Business Pro,44,2022-03-13,499,0,Month-to-Month
+CUS0491,21,Eastern Cape,Basic Prepaid,9,2022-02-03,0,0,Prepaid
+CUS0492,56,Western Cape,Basic Prepaid,24,2020-03-26,0,1,Month-to-Month
+CUS0493,23,Limpopo,Smart 199,8,2020-10-04,199,0,Prepaid
+CUS0494,65,KwaZulu-Natal,Unlimited Premium,8,2021-12-27,799,0,24-Month Contract
+CUS0495,50,Mpumalanga,Basic Prepaid,17,2020-09-08,0,1,24-Month Contract
+CUS0496,56,KwaZulu-Natal,Smart 199,47,2022-09-28,199,1,Prepaid
+CUS0497,25,Gauteng,Smart 199,36,2021-11-01,199,0,24-Month Contract
+CUS0498,46,Gauteng,Smart 50,17,2021-12-26,50,0,24-Month Contract
+CUS0499,22,KwaZulu-Natal,Business Pro,8,2020-02-12,499,0,Prepaid
+CUS0500,60,Eastern Cape,Smart 50,36,2021-08-16,50,0,Prepaid

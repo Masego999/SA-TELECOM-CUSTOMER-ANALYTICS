@@ -1,0 +1,601 @@
+complaint_id,customer_id,date_raised,complaint_type,resolution,days_to_resolve,satisfaction
+CMP0000,CUS0460,2023-11-29,Network Coverage,Closed - No Action,16.0,1
+CMP0001,CUS0008,2023-07-14,Customer Service,Pending,2.0,4
+CMP0002,CUS0018,2023-05-21,Poor Call Quality,Pending,26.0,5
+CMP0003,CUS0430,2023-10-19,Billing Error,Pending,10.0,4
+CMP0004,CUS0042,2023-04-16,Poor Call Quality,Escalated,29.0,3
+CMP0005,CUS0195,2023-01-21,Poor Call Quality,Closed - No Action,,4
+CMP0006,CUS0063,2023-10-02,Network Coverage,Closed - No Action,1.0,5
+CMP0007,CUS0388,2023-01-10,Roaming Issue,Escalated,18.0,2
+CMP0008,CUS0286,2023-08-27,Poor Call Quality,Pending,,3
+CMP0009,CUS0134,2023-03-19,Roaming Issue,Pending,9.0,1
+CMP0010,CUS0082,2023-11-27,Wrong Charge,Escalated,29.0,2
+CMP0011,CUS0231,2023-12-03,Poor Call Quality,Resolved,8.0,2
+CMP0012,CUS0015,2023-09-11,Billing Error,Pending,2.0,1
+CMP0013,CUS0236,2023-04-25,Wrong Charge,Closed - No Action,,5
+CMP0014,CUS0355,2023-02-09,Wrong Charge,Escalated,3.0,4
+CMP0015,CUS0451,2023-05-25,SIM Problem,Closed - No Action,24.0,3
+CMP0016,CUS0385,2023-08-28,Customer Service,Resolved,2.0,5
+CMP0017,CUS0080,2023-01-02,Roaming Issue,Closed - No Action,28.0,4
+CMP0018,CUS0143,2023-09-08,Billing Error,Pending,1.0,3
+CMP0019,CUS0011,2023-07-16,SIM Problem,Pending,28.0,5
+CMP0020,CUS0273,2023-05-13,Network Coverage,Escalated,13.0,4
+CMP0021,CUS0455,2023-10-07,Roaming Issue,Pending,16.0,1
+CMP0022,CUS0186,2023-08-04,Wrong Charge,Escalated,15.0,5
+CMP0023,CUS0386,2023-05-03,Poor Call Quality,Pending,5.0,3
+CMP0024,CUS0007,2023-08-16,Poor Call Quality,Closed - No Action,30.0,4
+CMP0025,CUS0105,2023-01-30,Slow Data Speed,Escalated,29.0,1
+CMP0026,CUS0355,2023-05-13,Poor Call Quality,Escalated,,3
+CMP0027,CUS0446,2023-02-06,Billing Error,Resolved,13.0,5
+CMP0028,CUS0300,2023-12-27,Network Coverage,Resolved,22.0,2
+CMP0029,CUS0196,2023-06-06,Wrong Charge,Resolved,,1
+CMP0030,CUS0028,2023-03-29,Network Coverage,Escalated,27.0,5
+CMP0031,CUS0338,2023-03-16,Slow Data Speed,Closed - No Action,18.0,1
+CMP0032,CUS0065,2023-12-14,SIM Problem,Closed - No Action,30.0,2
+CMP0033,CUS0412,2023-11-09,Slow Data Speed,Escalated,13.0,4
+CMP0034,CUS0180,2023-11-28,Billing Error,Escalated,,1
+CMP0035,CUS0223,2023-11-15,Slow Data Speed,Escalated,,2
+CMP0036,CUS0304,2023-06-19,SIM Problem,Resolved,24.0,1
+CMP0037,CUS0253,2023-09-27,SIM Problem,Escalated,18.0,2
+CMP0038,CUS0241,2023-01-28,Customer Service,Closed - No Action,5.0,3
+CMP0039,CUS0147,2023-01-02,Poor Call Quality,Resolved,3.0,3
+CMP0040,CUS0327,2023-08-03,Poor Call Quality,Resolved,6.0,2
+CMP0041,CUS0231,2023-06-25,Poor Call Quality,Resolved,,4
+CMP0042,CUS0104,2023-04-28,Network Coverage,Escalated,1.0,1
+CMP0043,CUS0486,2023-07-07,Billing Error,Pending,26.0,4
+CMP0044,CUS0154,2023-08-23,Roaming Issue,Closed - No Action,21.0,4
+CMP0045,CUS0010,2023-12-22,Billing Error,Closed - No Action,,1
+CMP0046,CUS0417,2023-12-14,Poor Call Quality,Closed - No Action,6.0,1
+CMP0047,CUS0347,2023-01-09,Poor Call Quality,Resolved,19.0,5
+CMP0048,CUS0376,2023-10-10,SIM Problem,Pending,16.0,4
+CMP0049,CUS0455,2023-08-26,Slow Data Speed,Closed - No Action,29.0,2
+CMP0050,CUS0030,2023-08-17,Network Coverage,Closed - No Action,29.0,4
+CMP0051,CUS0184,2023-01-24,Customer Service,Escalated,23.0,3
+CMP0052,CUS0301,2023-10-26,Billing Error,Escalated,,3
+CMP0053,CUS0350,2023-01-20,SIM Problem,Resolved,,4
+CMP0054,CUS0010,2023-07-25,Customer Service,Pending,26.0,1
+CMP0055,CUS0060,2023-09-19,SIM Problem,Pending,6.0,4
+CMP0056,CUS0366,2023-01-10,SIM Problem,Closed - No Action,,2
+CMP0057,CUS0038,2023-12-30,Slow Data Speed,Escalated,13.0,1
+CMP0058,CUS0393,2023-11-12,Wrong Charge,Escalated,1.0,5
+CMP0059,CUS0412,2023-11-22,Network Coverage,Closed - No Action,24.0,3
+CMP0060,CUS0383,2023-05-08,Billing Error,Closed - No Action,17.0,2
+CMP0061,CUS0458,2023-12-06,SIM Problem,Pending,,5
+CMP0062,CUS0189,2023-01-21,Customer Service,Pending,22.0,4
+CMP0063,CUS0003,2023-12-11,Roaming Issue,Pending,17.0,4
+CMP0064,CUS0197,2023-01-11,Wrong Charge,Escalated,4.0,5
+CMP0065,CUS0097,2023-02-25,Roaming Issue,Escalated,17.0,3
+CMP0066,CUS0023,2023-03-17,Wrong Charge,Resolved,20.0,2
+CMP0067,CUS0467,2023-12-07,Wrong Charge,Pending,20.0,1
+CMP0068,CUS0384,2023-11-05,Wrong Charge,Escalated,12.0,4
+CMP0069,CUS0139,2023-04-08,Customer Service,Pending,,2
+CMP0070,CUS0363,2023-08-11,SIM Problem,Closed - No Action,16.0,5
+CMP0071,CUS0330,2023-04-18,Roaming Issue,Pending,16.0,1
+CMP0072,CUS0086,2023-05-18,Billing Error,Escalated,,2
+CMP0073,CUS0455,2023-07-24,SIM Problem,Escalated,20.0,4
+CMP0074,CUS0234,2023-06-08,Slow Data Speed,Closed - No Action,9.0,1
+CMP0075,CUS0326,2023-01-01,Poor Call Quality,Escalated,13.0,4
+CMP0076,CUS0019,2023-02-17,Wrong Charge,Resolved,4.0,4
+CMP0077,CUS0470,2023-01-07,Poor Call Quality,Closed - No Action,13.0,2
+CMP0078,CUS0242,2023-09-20,Roaming Issue,Pending,29.0,4
+CMP0079,CUS0430,2023-08-03,Poor Call Quality,Pending,19.0,5
+CMP0080,CUS0157,2023-04-07,Billing Error,Escalated,,3
+CMP0081,CUS0193,2023-01-14,Customer Service,Closed - No Action,16.0,5
+CMP0082,CUS0450,2023-03-31,SIM Problem,Pending,1.0,5
+CMP0083,CUS0003,2023-10-17,Billing Error,Resolved,23.0,1
+CMP0084,CUS0239,2023-09-21,Poor Call Quality,Pending,19.0,4
+CMP0085,CUS0394,2023-10-23,Network Coverage,Escalated,25.0,4
+CMP0086,CUS0361,2023-07-23,Network Coverage,Escalated,1.0,5
+CMP0087,CUS0490,2023-06-13,Billing Error,Closed - No Action,10.0,4
+CMP0088,CUS0022,2023-12-07,Roaming Issue,Resolved,14.0,1
+CMP0089,CUS0376,2023-10-30,Roaming Issue,Escalated,10.0,3
+CMP0090,CUS0297,2023-09-15,Wrong Charge,Pending,,4
+CMP0091,CUS0417,2023-05-16,Network Coverage,Pending,12.0,5
+CMP0092,CUS0295,2023-04-02,Customer Service,Closed - No Action,28.0,2
+CMP0093,CUS0467,2023-02-03,Billing Error,Closed - No Action,11.0,3
+CMP0094,CUS0125,2023-12-27,Wrong Charge,Closed - No Action,26.0,5
+CMP0095,CUS0103,2023-03-11,Billing Error,Closed - No Action,24.0,3
+CMP0096,CUS0200,2023-02-16,Billing Error,Closed - No Action,20.0,5
+CMP0097,CUS0137,2023-11-07,Network Coverage,Pending,8.0,3
+CMP0098,CUS0443,2023-06-30,Customer Service,Resolved,14.0,3
+CMP0099,CUS0302,2023-06-02,Poor Call Quality,Pending,,5
+CMP0100,CUS0287,2023-02-05,Poor Call Quality,Pending,27.0,4
+CMP0101,CUS0197,2023-09-23,Roaming Issue,Resolved,,3
+CMP0102,CUS0189,2023-07-16,Roaming Issue,Pending,20.0,5
+CMP0103,CUS0352,2023-06-24,SIM Problem,Escalated,,1
+CMP0104,CUS0356,2023-09-29,SIM Problem,Pending,3.0,3
+CMP0105,CUS0424,2023-09-17,Poor Call Quality,Resolved,29.0,3
+CMP0106,CUS0143,2023-01-08,Customer Service,Escalated,,5
+CMP0107,CUS0215,2023-02-21,Customer Service,Escalated,21.0,3
+CMP0108,CUS0162,2023-11-22,Wrong Charge,Escalated,23.0,4
+CMP0109,CUS0319,2023-04-22,Customer Service,Resolved,12.0,5
+CMP0110,CUS0407,2023-08-10,Network Coverage,Closed - No Action,11.0,4
+CMP0111,CUS0128,2023-01-23,Slow Data Speed,Resolved,,2
+CMP0112,CUS0276,2023-11-21,Wrong Charge,Resolved,7.0,1
+CMP0113,CUS0096,2023-08-13,Roaming Issue,Closed - No Action,10.0,4
+CMP0114,CUS0205,2023-10-12,Billing Error,Escalated,,4
+CMP0115,CUS0290,2023-06-03,Billing Error,Resolved,9.0,1
+CMP0116,CUS0009,2023-01-20,Poor Call Quality,Resolved,26.0,2
+CMP0117,CUS0409,2023-01-27,Roaming Issue,Resolved,26.0,4
+CMP0118,CUS0164,2023-11-08,Customer Service,Resolved,1.0,5
+CMP0119,CUS0036,2023-12-05,Network Coverage,Closed - No Action,21.0,4
+CMP0120,CUS0314,2023-04-22,Slow Data Speed,Escalated,24.0,1
+CMP0121,CUS0367,2023-12-11,Billing Error,Closed - No Action,13.0,3
+CMP0122,CUS0318,2023-03-20,SIM Problem,Resolved,,4
+CMP0123,CUS0161,2023-05-14,Customer Service,Resolved,,5
+CMP0124,CUS0367,2023-06-21,Wrong Charge,Resolved,15.0,1
+CMP0125,CUS0188,2023-12-02,Wrong Charge,Resolved,28.0,4
+CMP0126,CUS0042,2023-05-16,Slow Data Speed,Closed - No Action,22.0,3
+CMP0127,CUS0154,2023-12-12,Billing Error,Closed - No Action,,2
+CMP0128,CUS0458,2023-03-20,Network Coverage,Pending,2.0,1
+CMP0129,CUS0490,2023-12-18,Billing Error,Escalated,22.0,1
+CMP0130,CUS0133,2023-01-27,Roaming Issue,Escalated,2.0,3
+CMP0131,CUS0327,2023-03-24,Wrong Charge,Escalated,26.0,4
+CMP0132,CUS0157,2023-03-07,Wrong Charge,Closed - No Action,17.0,4
+CMP0133,CUS0325,2023-03-29,SIM Problem,Pending,10.0,4
+CMP0134,CUS0297,2023-12-26,Slow Data Speed,Closed - No Action,25.0,4
+CMP0135,CUS0058,2023-08-29,SIM Problem,Resolved,24.0,4
+CMP0136,CUS0450,2023-12-19,Roaming Issue,Resolved,18.0,5
+CMP0137,CUS0111,2023-05-23,Wrong Charge,Resolved,,2
+CMP0138,CUS0360,2023-02-06,Wrong Charge,Pending,19.0,1
+CMP0139,CUS0215,2023-02-14,Poor Call Quality,Resolved,26.0,1
+CMP0140,CUS0075,2023-04-14,Slow Data Speed,Pending,,1
+CMP0141,CUS0192,2023-10-09,SIM Problem,Resolved,9.0,4
+CMP0142,CUS0196,2023-09-30,Customer Service,Resolved,16.0,2
+CMP0143,CUS0309,2023-08-26,Slow Data Speed,Resolved,8.0,3
+CMP0144,CUS0441,2023-05-01,Network Coverage,Closed - No Action,,4
+CMP0145,CUS0333,2023-02-07,SIM Problem,Closed - No Action,11.0,5
+CMP0146,CUS0339,2023-10-08,Poor Call Quality,Pending,,3
+CMP0147,CUS0487,2023-10-26,Poor Call Quality,Resolved,23.0,3
+CMP0148,CUS0422,2023-07-09,Billing Error,Closed - No Action,,4
+CMP0149,CUS0176,2023-02-11,Slow Data Speed,Pending,,4
+CMP0150,CUS0273,2023-03-24,Customer Service,Resolved,17.0,2
+CMP0151,CUS0263,2023-12-24,Billing Error,Resolved,14.0,4
+CMP0152,CUS0368,2023-11-29,Customer Service,Escalated,15.0,1
+CMP0153,CUS0377,2023-01-12,Poor Call Quality,Escalated,24.0,5
+CMP0154,CUS0092,2023-09-01,Wrong Charge,Resolved,9.0,3
+CMP0155,CUS0155,2023-07-26,Network Coverage,Pending,,2
+CMP0156,CUS0166,2023-08-18,Billing Error,Resolved,3.0,4
+CMP0157,CUS0135,2023-01-14,Poor Call Quality,Escalated,,1
+CMP0158,CUS0111,2023-07-05,Network Coverage,Escalated,,2
+CMP0159,CUS0367,2023-06-05,SIM Problem,Resolved,,4
+CMP0160,CUS0265,2023-09-09,Wrong Charge,Closed - No Action,,4
+CMP0161,CUS0371,2023-09-18,Roaming Issue,Escalated,6.0,2
+CMP0162,CUS0465,2023-05-03,Network Coverage,Closed - No Action,14.0,2
+CMP0163,CUS0023,2023-12-13,Wrong Charge,Resolved,9.0,1
+CMP0164,CUS0162,2023-03-08,Poor Call Quality,Escalated,4.0,2
+CMP0165,CUS0310,2023-02-23,Wrong Charge,Escalated,7.0,4
+CMP0166,CUS0209,2023-06-17,SIM Problem,Resolved,,4
+CMP0167,CUS0378,2023-05-17,Wrong Charge,Pending,13.0,3
+CMP0168,CUS0471,2023-06-28,Wrong Charge,Escalated,9.0,5
+CMP0169,CUS0115,2023-09-06,Customer Service,Closed - No Action,8.0,4
+CMP0170,CUS0306,2023-06-26,Customer Service,Pending,,5
+CMP0171,CUS0079,2023-10-04,Network Coverage,Pending,,2
+CMP0172,CUS0090,2023-04-12,Wrong Charge,Pending,29.0,3
+CMP0173,CUS0038,2023-03-04,Wrong Charge,Closed - No Action,,1
+CMP0174,CUS0119,2023-07-05,Slow Data Speed,Closed - No Action,,3
+CMP0175,CUS0484,2023-10-12,Network Coverage,Closed - No Action,10.0,1
+CMP0176,CUS0332,2023-09-08,Wrong Charge,Pending,3.0,4
+CMP0177,CUS0445,2023-08-02,Network Coverage,Escalated,9.0,4
+CMP0178,CUS0021,2023-10-15,Network Coverage,Closed - No Action,11.0,2
+CMP0179,CUS0423,2023-12-24,Billing Error,Pending,24.0,4
+CMP0180,CUS0134,2023-06-20,Wrong Charge,Pending,9.0,4
+CMP0181,CUS0011,2023-11-03,Network Coverage,Escalated,6.0,2
+CMP0182,CUS0108,2023-05-10,SIM Problem,Closed - No Action,,5
+CMP0183,CUS0142,2023-03-04,Roaming Issue,Escalated,8.0,4
+CMP0184,CUS0252,2023-06-17,Poor Call Quality,Pending,,3
+CMP0185,CUS0250,2023-05-02,Roaming Issue,Escalated,17.0,4
+CMP0186,CUS0198,2023-04-06,SIM Problem,Closed - No Action,1.0,5
+CMP0187,CUS0059,2023-08-22,Poor Call Quality,Resolved,10.0,3
+CMP0188,CUS0290,2023-09-24,Billing Error,Escalated,,2
+CMP0189,CUS0231,2023-07-14,Poor Call Quality,Escalated,8.0,3
+CMP0190,CUS0294,2023-03-19,Customer Service,Resolved,,3
+CMP0191,CUS0436,2023-04-14,Network Coverage,Resolved,3.0,5
+CMP0192,CUS0433,2023-05-12,SIM Problem,Closed - No Action,,2
+CMP0193,CUS0372,2023-06-06,Slow Data Speed,Closed - No Action,17.0,1
+CMP0194,CUS0189,2023-08-28,SIM Problem,Resolved,9.0,1
+CMP0195,CUS0345,2023-03-24,Billing Error,Closed - No Action,20.0,3
+CMP0196,CUS0274,2023-08-09,Poor Call Quality,Closed - No Action,,5
+CMP0197,CUS0419,2023-06-19,Roaming Issue,Pending,23.0,4
+CMP0198,CUS0177,2023-02-03,Roaming Issue,Resolved,1.0,5
+CMP0199,CUS0255,2023-06-09,Wrong Charge,Resolved,7.0,3
+CMP0200,CUS0132,2023-04-20,Billing Error,Resolved,8.0,4
+CMP0201,CUS0171,2023-04-21,Slow Data Speed,Pending,24.0,2
+CMP0202,CUS0141,2023-09-08,Network Coverage,Closed - No Action,29.0,4
+CMP0203,CUS0479,2023-12-14,Customer Service,Pending,2.0,5
+CMP0204,CUS0492,2023-09-17,Customer Service,Closed - No Action,,5
+CMP0205,CUS0399,2023-11-20,Wrong Charge,Pending,23.0,5
+CMP0206,CUS0024,2023-06-19,SIM Problem,Resolved,,4
+CMP0207,CUS0259,2023-07-02,Roaming Issue,Escalated,,4
+CMP0208,CUS0182,2023-12-02,Roaming Issue,Closed - No Action,19.0,2
+CMP0209,CUS0118,2023-02-10,Roaming Issue,Resolved,7.0,4
+CMP0210,CUS0400,2023-10-24,Network Coverage,Closed - No Action,21.0,3
+CMP0211,CUS0311,2023-03-03,Network Coverage,Resolved,,4
+CMP0212,CUS0191,2023-08-02,Network Coverage,Closed - No Action,,5
+CMP0213,CUS0389,2023-08-12,Customer Service,Resolved,16.0,1
+CMP0214,CUS0243,2023-03-04,Slow Data Speed,Closed - No Action,13.0,5
+CMP0215,CUS0192,2023-10-08,SIM Problem,Resolved,12.0,5
+CMP0216,CUS0121,2023-10-21,Poor Call Quality,Escalated,6.0,5
+CMP0217,CUS0268,2023-12-03,Poor Call Quality,Pending,19.0,1
+CMP0218,CUS0414,2023-07-10,Billing Error,Resolved,2.0,3
+CMP0219,CUS0459,2023-04-15,Slow Data Speed,Escalated,17.0,4
+CMP0220,CUS0323,2023-09-01,SIM Problem,Closed - No Action,29.0,4
+CMP0221,CUS0016,2023-08-07,Roaming Issue,Resolved,12.0,3
+CMP0222,CUS0185,2023-12-02,Billing Error,Pending,,3
+CMP0223,CUS0342,2023-05-04,Wrong Charge,Closed - No Action,16.0,3
+CMP0224,CUS0151,2023-03-26,SIM Problem,Escalated,,1
+CMP0225,CUS0415,2023-08-23,Billing Error,Closed - No Action,6.0,5
+CMP0226,CUS0466,2023-11-29,Wrong Charge,Escalated,14.0,5
+CMP0227,CUS0281,2023-11-15,Slow Data Speed,Pending,8.0,4
+CMP0228,CUS0460,2023-12-10,Poor Call Quality,Closed - No Action,21.0,2
+CMP0229,CUS0026,2023-11-07,Slow Data Speed,Closed - No Action,29.0,1
+CMP0230,CUS0159,2023-09-24,Network Coverage,Escalated,1.0,1
+CMP0231,CUS0360,2023-01-13,Billing Error,Closed - No Action,8.0,3
+CMP0232,CUS0362,2023-05-13,Customer Service,Resolved,17.0,2
+CMP0233,CUS0289,2023-09-04,Slow Data Speed,Escalated,2.0,4
+CMP0234,CUS0033,2023-11-17,SIM Problem,Closed - No Action,10.0,2
+CMP0235,CUS0232,2023-10-30,Slow Data Speed,Escalated,,2
+CMP0236,CUS0076,2023-02-23,SIM Problem,Pending,,2
+CMP0237,CUS0079,2023-04-10,Billing Error,Resolved,20.0,5
+CMP0238,CUS0360,2023-08-18,Roaming Issue,Escalated,6.0,1
+CMP0239,CUS0239,2023-08-16,Poor Call Quality,Escalated,30.0,2
+CMP0240,CUS0452,2023-08-20,Billing Error,Pending,1.0,5
+CMP0241,CUS0338,2023-07-15,Wrong Charge,Pending,13.0,2
+CMP0242,CUS0300,2023-08-30,SIM Problem,Escalated,25.0,2
+CMP0243,CUS0403,2023-09-02,Slow Data Speed,Escalated,24.0,2
+CMP0244,CUS0068,2023-10-09,Billing Error,Escalated,9.0,3
+CMP0245,CUS0262,2023-11-23,Customer Service,Closed - No Action,7.0,4
+CMP0246,CUS0066,2023-06-13,Network Coverage,Closed - No Action,6.0,2
+CMP0247,CUS0454,2023-11-20,Poor Call Quality,Resolved,26.0,1
+CMP0248,CUS0353,2023-07-07,Customer Service,Escalated,11.0,1
+CMP0249,CUS0155,2023-07-13,Roaming Issue,Pending,,4
+CMP0250,CUS0494,2023-03-20,SIM Problem,Closed - No Action,,3
+CMP0251,CUS0230,2023-01-12,Slow Data Speed,Closed - No Action,9.0,2
+CMP0252,CUS0163,2023-03-10,Billing Error,Resolved,,3
+CMP0253,CUS0010,2023-01-01,Slow Data Speed,Pending,24.0,5
+CMP0254,CUS0111,2023-10-03,Customer Service,Pending,2.0,2
+CMP0255,CUS0470,2023-11-21,Network Coverage,Escalated,30.0,5
+CMP0256,CUS0432,2023-04-20,SIM Problem,Pending,,2
+CMP0257,CUS0343,2023-11-22,Poor Call Quality,Escalated,13.0,2
+CMP0258,CUS0160,2023-04-26,Network Coverage,Pending,28.0,3
+CMP0259,CUS0416,2023-03-26,Billing Error,Pending,8.0,3
+CMP0260,CUS0346,2023-11-10,Slow Data Speed,Closed - No Action,,3
+CMP0261,CUS0465,2023-03-27,Poor Call Quality,Closed - No Action,11.0,1
+CMP0262,CUS0486,2023-11-23,Billing Error,Pending,1.0,5
+CMP0263,CUS0028,2023-05-08,Network Coverage,Pending,,1
+CMP0264,CUS0220,2023-09-13,Slow Data Speed,Escalated,,4
+CMP0265,CUS0161,2023-03-29,Network Coverage,Pending,4.0,4
+CMP0266,CUS0303,2023-12-27,Slow Data Speed,Closed - No Action,22.0,3
+CMP0267,CUS0126,2023-04-20,Roaming Issue,Closed - No Action,9.0,5
+CMP0268,CUS0088,2023-11-14,Roaming Issue,Closed - No Action,26.0,2
+CMP0269,CUS0322,2023-03-05,Network Coverage,Escalated,8.0,3
+CMP0270,CUS0273,2023-03-01,Roaming Issue,Pending,7.0,3
+CMP0271,CUS0007,2023-09-19,SIM Problem,Escalated,17.0,5
+CMP0272,CUS0234,2023-03-05,Network Coverage,Escalated,23.0,4
+CMP0273,CUS0143,2023-07-23,SIM Problem,Escalated,8.0,4
+CMP0274,CUS0204,2023-01-07,Network Coverage,Pending,25.0,3
+CMP0275,CUS0066,2023-12-21,Roaming Issue,Closed - No Action,12.0,3
+CMP0276,CUS0238,2023-12-09,SIM Problem,Closed - No Action,,5
+CMP0277,CUS0006,2023-09-26,Wrong Charge,Closed - No Action,22.0,3
+CMP0278,CUS0234,2023-05-05,SIM Problem,Escalated,7.0,2
+CMP0279,CUS0082,2023-12-17,Network Coverage,Escalated,30.0,4
+CMP0280,CUS0153,2023-11-22,Billing Error,Escalated,17.0,2
+CMP0281,CUS0431,2023-05-19,Wrong Charge,Pending,18.0,4
+CMP0282,CUS0393,2023-01-30,Billing Error,Resolved,21.0,1
+CMP0283,CUS0233,2023-03-12,Slow Data Speed,Resolved,12.0,1
+CMP0284,CUS0353,2023-04-03,Roaming Issue,Escalated,21.0,2
+CMP0285,CUS0368,2023-06-07,Roaming Issue,Pending,19.0,2
+CMP0286,CUS0021,2023-11-19,Wrong Charge,Pending,15.0,2
+CMP0287,CUS0179,2023-11-09,SIM Problem,Closed - No Action,,1
+CMP0288,CUS0344,2023-11-25,SIM Problem,Resolved,25.0,1
+CMP0289,CUS0450,2023-11-14,Customer Service,Closed - No Action,13.0,1
+CMP0290,CUS0472,2023-02-25,Wrong Charge,Resolved,13.0,3
+CMP0291,CUS0074,2023-10-08,Slow Data Speed,Escalated,,1
+CMP0292,CUS0307,2023-08-09,Wrong Charge,Resolved,21.0,1
+CMP0293,CUS0165,2023-08-19,Billing Error,Escalated,,4
+CMP0294,CUS0151,2023-12-30,Roaming Issue,Closed - No Action,16.0,4
+CMP0295,CUS0116,2023-07-08,Slow Data Speed,Closed - No Action,,2
+CMP0296,CUS0291,2023-03-19,SIM Problem,Pending,10.0,4
+CMP0297,CUS0040,2023-01-09,Network Coverage,Closed - No Action,,1
+CMP0298,CUS0173,2023-12-15,Roaming Issue,Escalated,11.0,3
+CMP0299,CUS0032,2023-02-27,SIM Problem,Resolved,6.0,5
+CMP0300,CUS0046,2023-02-04,SIM Problem,Escalated,25.0,3
+CMP0301,CUS0343,2023-09-18,Customer Service,Resolved,,5
+CMP0302,CUS0224,2023-11-21,Slow Data Speed,Resolved,8.0,3
+CMP0303,CUS0386,2023-05-12,Roaming Issue,Pending,17.0,5
+CMP0304,CUS0162,2023-07-29,Customer Service,Closed - No Action,6.0,4
+CMP0305,CUS0175,2023-06-03,Wrong Charge,Resolved,23.0,2
+CMP0306,CUS0299,2023-05-26,Slow Data Speed,Escalated,8.0,4
+CMP0307,CUS0229,2023-10-28,Poor Call Quality,Closed - No Action,21.0,1
+CMP0308,CUS0037,2023-01-06,Network Coverage,Closed - No Action,23.0,5
+CMP0309,CUS0298,2023-05-06,Wrong Charge,Closed - No Action,7.0,5
+CMP0310,CUS0155,2023-05-20,SIM Problem,Escalated,14.0,2
+CMP0311,CUS0409,2023-01-09,Wrong Charge,Pending,2.0,2
+CMP0312,CUS0113,2023-05-20,Network Coverage,Resolved,,1
+CMP0313,CUS0004,2023-09-01,Network Coverage,Closed - No Action,,4
+CMP0314,CUS0415,2023-07-30,Poor Call Quality,Pending,27.0,4
+CMP0315,CUS0462,2023-03-13,SIM Problem,Pending,8.0,5
+CMP0316,CUS0435,2023-11-06,Roaming Issue,Closed - No Action,13.0,1
+CMP0317,CUS0310,2023-12-11,Wrong Charge,Pending,25.0,2
+CMP0318,CUS0260,2023-05-16,Wrong Charge,Pending,29.0,2
+CMP0319,CUS0345,2023-12-27,Poor Call Quality,Escalated,,1
+CMP0320,CUS0081,2023-09-05,Roaming Issue,Pending,11.0,4
+CMP0321,CUS0063,2023-03-20,Customer Service,Closed - No Action,20.0,4
+CMP0322,CUS0137,2023-03-09,Billing Error,Closed - No Action,,2
+CMP0323,CUS0366,2023-02-16,Roaming Issue,Escalated,12.0,5
+CMP0324,CUS0346,2023-11-20,Roaming Issue,Escalated,22.0,1
+CMP0325,CUS0164,2023-07-06,Poor Call Quality,Escalated,14.0,4
+CMP0326,CUS0048,2023-04-25,Poor Call Quality,Pending,18.0,1
+CMP0327,CUS0098,2023-02-06,Network Coverage,Escalated,2.0,5
+CMP0328,CUS0185,2023-03-08,Billing Error,Resolved,2.0,5
+CMP0329,CUS0317,2023-06-19,Customer Service,Escalated,5.0,3
+CMP0330,CUS0043,2023-10-02,Network Coverage,Escalated,,3
+CMP0331,CUS0494,2023-08-22,Poor Call Quality,Escalated,1.0,4
+CMP0332,CUS0419,2023-01-29,Poor Call Quality,Escalated,16.0,1
+CMP0333,CUS0423,2023-10-23,Billing Error,Escalated,18.0,5
+CMP0334,CUS0369,2023-11-25,Network Coverage,Escalated,23.0,3
+CMP0335,CUS0194,2023-05-20,Slow Data Speed,Resolved,14.0,1
+CMP0336,CUS0366,2023-09-21,Roaming Issue,Pending,11.0,5
+CMP0337,CUS0399,2023-12-14,Roaming Issue,Pending,2.0,3
+CMP0338,CUS0331,2023-01-10,Slow Data Speed,Closed - No Action,22.0,3
+CMP0339,CUS0277,2023-10-29,Roaming Issue,Pending,10.0,1
+CMP0340,CUS0305,2023-10-09,SIM Problem,Escalated,11.0,2
+CMP0341,CUS0359,2023-12-27,Slow Data Speed,Pending,19.0,4
+CMP0342,CUS0423,2023-09-15,Slow Data Speed,Escalated,,2
+CMP0343,CUS0218,2023-10-31,Slow Data Speed,Pending,28.0,4
+CMP0344,CUS0323,2023-06-20,Slow Data Speed,Closed - No Action,14.0,4
+CMP0345,CUS0430,2023-05-24,SIM Problem,Resolved,26.0,1
+CMP0346,CUS0261,2023-08-09,SIM Problem,Pending,1.0,1
+CMP0347,CUS0233,2023-09-15,Billing Error,Pending,30.0,3
+CMP0348,CUS0392,2023-10-28,SIM Problem,Pending,10.0,4
+CMP0349,CUS0371,2023-07-10,Wrong Charge,Resolved,22.0,1
+CMP0350,CUS0280,2023-01-06,Customer Service,Closed - No Action,21.0,4
+CMP0351,CUS0043,2023-02-07,Network Coverage,Pending,20.0,3
+CMP0352,CUS0354,2023-09-18,Billing Error,Closed - No Action,8.0,4
+CMP0353,CUS0051,2023-06-07,Roaming Issue,Closed - No Action,25.0,2
+CMP0354,CUS0355,2023-04-13,Wrong Charge,Resolved,6.0,1
+CMP0355,CUS0195,2023-03-26,Slow Data Speed,Closed - No Action,13.0,1
+CMP0356,CUS0451,2023-09-27,Network Coverage,Escalated,23.0,2
+CMP0357,CUS0317,2023-09-05,Billing Error,Escalated,1.0,5
+CMP0358,CUS0106,2023-07-02,Poor Call Quality,Resolved,13.0,4
+CMP0359,CUS0177,2023-07-07,SIM Problem,Escalated,,1
+CMP0360,CUS0161,2023-12-06,Roaming Issue,Escalated,19.0,5
+CMP0361,CUS0175,2023-11-24,Network Coverage,Closed - No Action,,2
+CMP0362,CUS0180,2023-10-22,Wrong Charge,Escalated,8.0,4
+CMP0363,CUS0128,2023-05-06,Poor Call Quality,Resolved,20.0,1
+CMP0364,CUS0283,2023-05-13,Network Coverage,Resolved,,4
+CMP0365,CUS0382,2023-01-19,Billing Error,Resolved,,1
+CMP0366,CUS0018,2023-04-28,Billing Error,Closed - No Action,22.0,4
+CMP0367,CUS0445,2023-06-15,Wrong Charge,Closed - No Action,,2
+CMP0368,CUS0489,2023-05-03,Customer Service,Resolved,29.0,5
+CMP0369,CUS0447,2023-04-21,Slow Data Speed,Closed - No Action,14.0,5
+CMP0370,CUS0318,2023-05-21,SIM Problem,Escalated,,1
+CMP0371,CUS0109,2023-02-02,Customer Service,Closed - No Action,1.0,2
+CMP0372,CUS0030,2023-10-10,Network Coverage,Closed - No Action,28.0,4
+CMP0373,CUS0116,2023-02-11,SIM Problem,Resolved,27.0,3
+CMP0374,CUS0219,2023-10-07,Network Coverage,Pending,2.0,2
+CMP0375,CUS0098,2023-02-02,Slow Data Speed,Closed - No Action,29.0,1
+CMP0376,CUS0149,2023-02-06,Roaming Issue,Closed - No Action,7.0,3
+CMP0377,CUS0266,2023-08-23,Slow Data Speed,Pending,6.0,2
+CMP0378,CUS0458,2023-10-20,Slow Data Speed,Resolved,26.0,2
+CMP0379,CUS0499,2023-04-12,Billing Error,Resolved,,1
+CMP0380,CUS0211,2023-07-05,Billing Error,Closed - No Action,12.0,2
+CMP0381,CUS0197,2023-12-25,SIM Problem,Pending,18.0,3
+CMP0382,CUS0217,2023-05-14,Network Coverage,Resolved,16.0,2
+CMP0383,CUS0288,2023-01-26,Network Coverage,Resolved,,5
+CMP0384,CUS0213,2023-10-22,Poor Call Quality,Pending,29.0,1
+CMP0385,CUS0411,2023-05-25,Customer Service,Pending,2.0,3
+CMP0386,CUS0389,2023-08-01,Wrong Charge,Closed - No Action,26.0,5
+CMP0387,CUS0072,2023-08-02,Slow Data Speed,Resolved,,4
+CMP0388,CUS0081,2023-03-11,Slow Data Speed,Resolved,6.0,5
+CMP0389,CUS0142,2023-07-17,Roaming Issue,Closed - No Action,25.0,4
+CMP0390,CUS0400,2023-04-12,Wrong Charge,Escalated,17.0,5
+CMP0391,CUS0265,2023-01-13,Wrong Charge,Pending,24.0,1
+CMP0392,CUS0350,2023-03-11,Poor Call Quality,Resolved,,4
+CMP0393,CUS0385,2023-09-25,Network Coverage,Pending,29.0,5
+CMP0394,CUS0127,2023-09-11,Network Coverage,Escalated,16.0,3
+CMP0395,CUS0473,2023-09-10,Roaming Issue,Closed - No Action,12.0,4
+CMP0396,CUS0373,2023-12-02,Slow Data Speed,Closed - No Action,10.0,2
+CMP0397,CUS0435,2023-01-13,Network Coverage,Closed - No Action,20.0,2
+CMP0398,CUS0118,2023-03-11,SIM Problem,Resolved,,3
+CMP0399,CUS0254,2023-04-04,Roaming Issue,Closed - No Action,6.0,3
+CMP0400,CUS0498,2023-11-07,Billing Error,Pending,20.0,2
+CMP0401,CUS0004,2023-08-28,Slow Data Speed,Resolved,11.0,5
+CMP0402,CUS0135,2023-05-31,Network Coverage,Closed - No Action,,4
+CMP0403,CUS0167,2023-01-03,Customer Service,Closed - No Action,27.0,2
+CMP0404,CUS0272,2023-02-05,Billing Error,Escalated,5.0,4
+CMP0405,CUS0015,2023-02-03,Roaming Issue,Resolved,5.0,4
+CMP0406,CUS0336,2023-01-26,Wrong Charge,Pending,25.0,4
+CMP0407,CUS0027,2023-08-13,SIM Problem,Resolved,,3
+CMP0408,CUS0229,2023-04-03,Network Coverage,Resolved,,1
+CMP0409,CUS0436,2023-11-08,Poor Call Quality,Closed - No Action,,4
+CMP0410,CUS0235,2023-09-01,Billing Error,Escalated,19.0,3
+CMP0411,CUS0205,2023-01-04,Wrong Charge,Escalated,12.0,2
+CMP0412,CUS0109,2023-03-10,Poor Call Quality,Closed - No Action,28.0,3
+CMP0413,CUS0490,2023-12-01,Poor Call Quality,Closed - No Action,21.0,3
+CMP0414,CUS0181,2023-07-08,Billing Error,Closed - No Action,28.0,1
+CMP0415,CUS0037,2023-11-30,Roaming Issue,Escalated,2.0,3
+CMP0416,CUS0020,2023-12-22,SIM Problem,Closed - No Action,28.0,5
+CMP0417,CUS0173,2023-07-20,Billing Error,Pending,15.0,3
+CMP0418,CUS0095,2023-12-03,Network Coverage,Resolved,3.0,4
+CMP0419,CUS0284,2023-10-27,Wrong Charge,Escalated,9.0,5
+CMP0420,CUS0165,2023-06-17,Customer Service,Resolved,8.0,4
+CMP0421,CUS0111,2023-01-11,Poor Call Quality,Escalated,,2
+CMP0422,CUS0321,2023-04-05,Roaming Issue,Escalated,,4
+CMP0423,CUS0471,2023-01-10,Billing Error,Resolved,27.0,4
+CMP0424,CUS0287,2023-04-06,Wrong Charge,Resolved,24.0,2
+CMP0425,CUS0232,2023-07-22,Billing Error,Closed - No Action,,5
+CMP0426,CUS0493,2023-01-04,Network Coverage,Pending,12.0,3
+CMP0427,CUS0201,2023-08-03,Customer Service,Closed - No Action,27.0,1
+CMP0428,CUS0068,2023-11-17,Poor Call Quality,Resolved,11.0,1
+CMP0429,CUS0241,2023-04-15,Network Coverage,Closed - No Action,25.0,5
+CMP0430,CUS0264,2023-10-28,Wrong Charge,Resolved,30.0,5
+CMP0431,CUS0467,2023-12-08,Poor Call Quality,Resolved,,2
+CMP0432,CUS0300,2023-09-18,Poor Call Quality,Escalated,,1
+CMP0433,CUS0052,2023-06-19,Slow Data Speed,Closed - No Action,13.0,1
+CMP0434,CUS0228,2023-11-24,Roaming Issue,Pending,29.0,5
+CMP0435,CUS0250,2023-07-09,Poor Call Quality,Escalated,26.0,5
+CMP0436,CUS0209,2023-01-19,Slow Data Speed,Escalated,7.0,3
+CMP0437,CUS0312,2023-05-08,Network Coverage,Pending,10.0,2
+CMP0438,CUS0092,2023-09-01,Network Coverage,Escalated,8.0,3
+CMP0439,CUS0432,2023-04-08,Wrong Charge,Resolved,19.0,2
+CMP0440,CUS0402,2023-04-28,Poor Call Quality,Closed - No Action,21.0,3
+CMP0441,CUS0460,2023-11-12,Wrong Charge,Pending,,5
+CMP0442,CUS0210,2023-02-28,Slow Data Speed,Closed - No Action,27.0,4
+CMP0443,CUS0263,2023-09-01,Roaming Issue,Pending,19.0,4
+CMP0444,CUS0024,2023-04-21,Poor Call Quality,Pending,,5
+CMP0445,CUS0094,2023-05-03,Customer Service,Pending,,2
+CMP0446,CUS0371,2023-05-10,Network Coverage,Escalated,,3
+CMP0447,CUS0438,2023-02-13,SIM Problem,Resolved,8.0,1
+CMP0448,CUS0350,2023-04-29,Billing Error,Resolved,20.0,5
+CMP0449,CUS0056,2023-01-28,Wrong Charge,Escalated,10.0,2
+CMP0450,CUS0346,2023-03-07,Wrong Charge,Closed - No Action,,2
+CMP0451,CUS0448,2023-02-23,Slow Data Speed,Resolved,30.0,3
+CMP0452,CUS0085,2023-05-30,SIM Problem,Pending,,4
+CMP0453,CUS0327,2023-07-08,Roaming Issue,Resolved,9.0,2
+CMP0454,CUS0020,2023-08-15,Slow Data Speed,Resolved,14.0,1
+CMP0455,CUS0225,2023-09-01,Customer Service,Escalated,6.0,4
+CMP0456,CUS0309,2023-06-26,Roaming Issue,Closed - No Action,1.0,3
+CMP0457,CUS0481,2023-03-27,Network Coverage,Escalated,27.0,2
+CMP0458,CUS0432,2023-12-21,Slow Data Speed,Closed - No Action,8.0,3
+CMP0459,CUS0128,2023-09-26,Roaming Issue,Closed - No Action,,5
+CMP0460,CUS0036,2023-11-02,Poor Call Quality,Resolved,,5
+CMP0461,CUS0031,2023-04-20,Roaming Issue,Resolved,4.0,3
+CMP0462,CUS0416,2023-10-11,Roaming Issue,Pending,,2
+CMP0463,CUS0116,2023-08-13,Wrong Charge,Pending,,2
+CMP0464,CUS0383,2023-11-09,Roaming Issue,Resolved,21.0,5
+CMP0465,CUS0381,2023-02-12,Roaming Issue,Closed - No Action,1.0,3
+CMP0466,CUS0438,2023-02-05,SIM Problem,Pending,16.0,1
+CMP0467,CUS0185,2023-10-02,Slow Data Speed,Escalated,5.0,2
+CMP0468,CUS0403,2023-10-02,SIM Problem,Resolved,30.0,5
+CMP0469,CUS0076,2023-10-05,Customer Service,Closed - No Action,23.0,4
+CMP0470,CUS0461,2023-01-01,Wrong Charge,Resolved,27.0,2
+CMP0471,CUS0165,2023-04-28,Poor Call Quality,Closed - No Action,23.0,5
+CMP0472,CUS0081,2023-07-24,Customer Service,Pending,12.0,5
+CMP0473,CUS0024,2023-07-23,Slow Data Speed,Closed - No Action,19.0,3
+CMP0474,CUS0243,2023-06-01,Network Coverage,Escalated,27.0,2
+CMP0475,CUS0146,2023-04-09,Billing Error,Escalated,6.0,3
+CMP0476,CUS0206,2023-04-22,Poor Call Quality,Pending,23.0,3
+CMP0477,CUS0031,2023-06-24,Billing Error,Pending,1.0,5
+CMP0478,CUS0055,2023-12-30,Roaming Issue,Closed - No Action,,3
+CMP0479,CUS0237,2023-07-28,SIM Problem,Pending,24.0,1
+CMP0480,CUS0296,2023-11-05,Slow Data Speed,Closed - No Action,14.0,5
+CMP0481,CUS0315,2023-08-21,Wrong Charge,Pending,23.0,1
+CMP0482,CUS0303,2023-10-29,Slow Data Speed,Resolved,30.0,5
+CMP0483,CUS0082,2023-10-30,SIM Problem,Pending,13.0,5
+CMP0484,CUS0378,2023-07-27,Poor Call Quality,Closed - No Action,19.0,5
+CMP0485,CUS0340,2023-09-20,Wrong Charge,Pending,,5
+CMP0486,CUS0462,2023-11-18,Customer Service,Closed - No Action,9.0,4
+CMP0487,CUS0074,2023-07-02,Customer Service,Closed - No Action,6.0,1
+CMP0488,CUS0040,2023-01-14,Slow Data Speed,Closed - No Action,10.0,2
+CMP0489,CUS0387,2023-08-21,Customer Service,Closed - No Action,8.0,1
+CMP0490,CUS0286,2023-12-02,SIM Problem,Pending,,4
+CMP0491,CUS0254,2023-03-27,Poor Call Quality,Closed - No Action,26.0,2
+CMP0492,CUS0454,2023-12-11,Customer Service,Escalated,,2
+CMP0493,CUS0059,2023-11-11,Wrong Charge,Pending,30.0,4
+CMP0494,CUS0262,2023-08-24,Billing Error,Pending,8.0,3
+CMP0495,CUS0189,2023-12-11,Customer Service,Resolved,19.0,2
+CMP0496,CUS0089,2023-03-22,Roaming Issue,Resolved,25.0,3
+CMP0497,CUS0411,2023-05-15,Billing Error,Resolved,19.0,3
+CMP0498,CUS0074,2023-10-27,Slow Data Speed,Escalated,9.0,1
+CMP0499,CUS0195,2023-04-26,Poor Call Quality,Escalated,27.0,2
+CMP0500,CUS0054,2023-12-17,Roaming Issue,Resolved,3.0,1
+CMP0501,CUS0053,2023-09-17,Billing Error,Closed - No Action,20.0,2
+CMP0502,CUS0283,2023-12-27,Roaming Issue,Pending,14.0,1
+CMP0503,CUS0062,2023-07-05,SIM Problem,Escalated,13.0,1
+CMP0504,CUS0428,2023-08-20,Network Coverage,Closed - No Action,10.0,5
+CMP0505,CUS0327,2023-07-04,Customer Service,Resolved,16.0,2
+CMP0506,CUS0382,2023-11-25,Network Coverage,Resolved,26.0,2
+CMP0507,CUS0333,2023-03-20,Slow Data Speed,Closed - No Action,,5
+CMP0508,CUS0434,2023-05-24,SIM Problem,Resolved,28.0,2
+CMP0509,CUS0283,2023-06-21,Slow Data Speed,Closed - No Action,17.0,3
+CMP0510,CUS0099,2023-10-28,Roaming Issue,Pending,23.0,1
+CMP0511,CUS0052,2023-10-04,Slow Data Speed,Pending,9.0,4
+CMP0512,CUS0241,2023-10-22,Roaming Issue,Pending,17.0,4
+CMP0513,CUS0386,2023-12-24,Roaming Issue,Resolved,2.0,4
+CMP0514,CUS0336,2023-07-15,Slow Data Speed,Resolved,9.0,2
+CMP0515,CUS0382,2023-12-30,Poor Call Quality,Closed - No Action,12.0,1
+CMP0516,CUS0022,2023-02-06,Billing Error,Resolved,27.0,2
+CMP0517,CUS0059,2023-02-23,Slow Data Speed,Closed - No Action,2.0,1
+CMP0518,CUS0108,2023-10-03,Poor Call Quality,Pending,,5
+CMP0519,CUS0398,2023-12-29,Wrong Charge,Escalated,7.0,2
+CMP0520,CUS0034,2023-08-22,Network Coverage,Closed - No Action,4.0,5
+CMP0521,CUS0351,2023-10-11,Customer Service,Resolved,2.0,3
+CMP0522,CUS0430,2023-07-08,Customer Service,Closed - No Action,28.0,3
+CMP0523,CUS0300,2023-06-17,Billing Error,Closed - No Action,11.0,2
+CMP0524,CUS0298,2023-01-05,SIM Problem,Escalated,8.0,3
+CMP0525,CUS0335,2023-07-23,Customer Service,Escalated,18.0,1
+CMP0526,CUS0142,2023-08-17,Roaming Issue,Pending,,1
+CMP0527,CUS0261,2023-08-11,Roaming Issue,Closed - No Action,19.0,4
+CMP0528,CUS0385,2023-02-21,Wrong Charge,Resolved,21.0,4
+CMP0529,CUS0250,2023-08-12,Roaming Issue,Pending,20.0,4
+CMP0530,CUS0005,2023-12-14,Wrong Charge,Pending,6.0,3
+CMP0531,CUS0225,2023-11-23,Poor Call Quality,Closed - No Action,,2
+CMP0532,CUS0069,2023-01-27,SIM Problem,Escalated,10.0,5
+CMP0533,CUS0137,2023-07-13,Slow Data Speed,Closed - No Action,7.0,1
+CMP0534,CUS0217,2023-04-11,Slow Data Speed,Resolved,,5
+CMP0535,CUS0308,2023-05-13,Billing Error,Escalated,,1
+CMP0536,CUS0014,2023-08-10,Slow Data Speed,Pending,,3
+CMP0537,CUS0160,2023-06-26,Slow Data Speed,Pending,,5
+CMP0538,CUS0132,2023-12-03,SIM Problem,Resolved,,4
+CMP0539,CUS0293,2023-05-02,Wrong Charge,Resolved,23.0,1
+CMP0540,CUS0024,2023-07-20,Roaming Issue,Escalated,9.0,5
+CMP0541,CUS0008,2023-11-20,Billing Error,Closed - No Action,13.0,5
+CMP0542,CUS0305,2023-04-21,Customer Service,Escalated,11.0,1
+CMP0543,CUS0473,2023-12-19,Wrong Charge,Closed - No Action,13.0,1
+CMP0544,CUS0024,2023-10-26,Roaming Issue,Closed - No Action,,5
+CMP0545,CUS0004,2023-11-02,Wrong Charge,Resolved,15.0,3
+CMP0546,CUS0112,2023-04-24,Network Coverage,Closed - No Action,,4
+CMP0547,CUS0283,2023-07-08,SIM Problem,Resolved,,2
+CMP0548,CUS0486,2023-07-25,Wrong Charge,Pending,7.0,4
+CMP0549,CUS0343,2023-01-30,Slow Data Speed,Resolved,16.0,3
+CMP0550,CUS0484,2023-05-31,Network Coverage,Pending,30.0,1
+CMP0551,CUS0333,2023-09-26,Poor Call Quality,Resolved,11.0,1
+CMP0552,CUS0414,2023-04-24,Network Coverage,Pending,26.0,1
+CMP0553,CUS0084,2023-11-12,Poor Call Quality,Escalated,25.0,3
+CMP0554,CUS0316,2023-07-13,Roaming Issue,Resolved,,4
+CMP0555,CUS0226,2023-01-28,SIM Problem,Resolved,12.0,4
+CMP0556,CUS0151,2023-02-26,Wrong Charge,Closed - No Action,15.0,2
+CMP0557,CUS0172,2023-01-21,SIM Problem,Closed - No Action,11.0,2
+CMP0558,CUS0054,2023-01-29,SIM Problem,Closed - No Action,7.0,1
+CMP0559,CUS0359,2023-01-25,Poor Call Quality,Escalated,19.0,5
+CMP0560,CUS0189,2023-08-14,Billing Error,Resolved,29.0,2
+CMP0561,CUS0300,2023-04-22,Slow Data Speed,Closed - No Action,9.0,4
+CMP0562,CUS0125,2023-03-22,Wrong Charge,Closed - No Action,,3
+CMP0563,CUS0068,2023-11-04,Customer Service,Pending,25.0,4
+CMP0564,CUS0051,2023-10-24,Slow Data Speed,Closed - No Action,15.0,2
+CMP0565,CUS0453,2023-09-16,SIM Problem,Pending,16.0,4
+CMP0566,CUS0407,2023-02-15,Network Coverage,Escalated,,5
+CMP0567,CUS0323,2023-07-15,Wrong Charge,Resolved,,4
+CMP0568,CUS0069,2023-09-02,SIM Problem,Closed - No Action,23.0,2
+CMP0569,CUS0065,2023-11-27,Billing Error,Closed - No Action,4.0,1
+CMP0570,CUS0271,2023-08-20,Slow Data Speed,Pending,10.0,3
+CMP0571,CUS0476,2023-01-22,Customer Service,Resolved,17.0,3
+CMP0572,CUS0317,2023-08-28,Network Coverage,Resolved,30.0,2
+CMP0573,CUS0483,2023-07-24,Network Coverage,Escalated,30.0,5
+CMP0574,CUS0215,2023-05-24,Billing Error,Closed - No Action,1.0,1
+CMP0575,CUS0324,2023-06-01,Roaming Issue,Closed - No Action,6.0,5
+CMP0576,CUS0454,2023-04-05,SIM Problem,Resolved,,1
+CMP0577,CUS0255,2023-10-28,SIM Problem,Pending,28.0,3
+CMP0578,CUS0372,2023-09-20,Poor Call Quality,Pending,,3
+CMP0579,CUS0306,2023-09-03,Network Coverage,Resolved,30.0,3
+CMP0580,CUS0429,2023-11-16,Billing Error,Resolved,7.0,5
+CMP0581,CUS0142,2023-07-08,Slow Data Speed,Closed - No Action,1.0,5
+CMP0582,CUS0478,2023-05-01,Roaming Issue,Pending,,3
+CMP0583,CUS0204,2023-09-11,Billing Error,Closed - No Action,13.0,4
+CMP0584,CUS0184,2023-11-20,Roaming Issue,Resolved,23.0,5
+CMP0585,CUS0444,2023-11-23,Network Coverage,Escalated,,3
+CMP0586,CUS0109,2023-03-21,Roaming Issue,Resolved,2.0,3
+CMP0587,CUS0246,2023-12-17,Billing Error,Pending,7.0,4
+CMP0588,CUS0052,2023-05-07,SIM Problem,Resolved,20.0,1
+CMP0589,CUS0374,2023-05-29,Poor Call Quality,Closed - No Action,12.0,2
+CMP0590,CUS0454,2023-02-28,Billing Error,Escalated,23.0,5
+CMP0591,CUS0016,2023-06-03,Wrong Charge,Pending,26.0,4
+CMP0592,CUS0130,2023-09-04,Wrong Charge,Resolved,14.0,3
+CMP0593,CUS0139,2023-12-24,Customer Service,Closed - No Action,27.0,1
+CMP0594,CUS0409,2023-03-05,Customer Service,Closed - No Action,10.0,3
+CMP0595,CUS0424,2023-12-22,Network Coverage,Pending,28.0,1
+CMP0596,CUS0331,2023-07-05,Billing Error,Resolved,20.0,4
+CMP0597,CUS0066,2023-04-27,Customer Service,Pending,27.0,4
+CMP0598,CUS0274,2023-08-28,Billing Error,Escalated,3.0,2
+CMP0599,CUS0252,2023-10-19,Billing Error,Pending,,5

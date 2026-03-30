@@ -1,0 +1,6 @@
+plan_name,total_customers,churned_customers,churn_rate_pct,total_monthly_revenue
+Unlimited Premium,112,19.0,17.0,89488.0
+Business Pro,100,21.0,21.0,49900.0
+Smart 199,96,20.0,20.8,19104.0
+Smart 50,90,20.0,22.2,4500.0
+Basic Prepaid,102,35.0,34.3,0.0
